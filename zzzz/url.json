@@ -4,51 +4,51 @@
     "url": "https://amchls.wns.live/hls/stream.m3u8"
   },
   {
-    "channel": "DunyaNawTV",
+    "channel": "Dunya Naw TV",
     "url": "https://dunyanhls.wns.live/hls/stream.m3u8"
   },
   {
-    "channel": "EslahTV",
+    "channel": "Eslah TV",
     "url": "https://eslahtvhls.wns.live/hls/stream.m3u8"
   },
   {
-    "channel": "RTANews",
+    "channel": "RTA News",
     "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8"
   },
   {
-    "channel": "TamadonTV",
+    "channel": "Tamadon TV",
     "url": "https://hls.tamadon.live/hls/stream.m3u8"
   },
   {
-    "channel": "SharqRadioTV",
+    "channel": "Sharq Radio TV",
     "url": "https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8"
   },
   {
-    "channel": "AlbKanaleMusicTV",
+    "channel": "AlbKanale Music TV",
     "url": "https://albportal.net/albkanalemusic.m3u8"
   },
   {
-    "channel": "Kanali7",
+    "channel": "Kanali 7",
     "url": "https://fe.tring.al/delta/105/out/u/1200_1.m3u8"
   },
   {
-    "channel": "OraNews",
+    "channel": "Ora News",
     "url": "https://live1.mediadesk.al/oranews.m3u8"
   },
   {
-    "channel": "CanalAlgérie",
+    "channel": "Canal Algérie",
     "url": "https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8"
   },
   {
-    "channel": "KKTV",
+    "channel": "KK TV",
     "url": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8"
   },
   {
-    "channel": "MuzangalaTV",
+    "channel": "Muzangala TV",
     "url": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8"
   },
   {
-    "channel": "AiredeSantaFe",
+    "channel": "Aire de Santa Fe",
     "url": "https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8"
   },
   {
@@ -56,51 +56,51 @@
     "url": "https://alternatv.ar/stream/hls/live.m3u8"
   },
   {
-    "channel": "Antena91",
+    "channel": "Antena 91",
     "url": "https://tuvideoonline.com.ar:3393/live/antena91live.m3u8"
   },
   {
-    "channel": "ArgentinísimaSatelital",
+    "channel": "Argentinísima Satelital",
     "url": "https://stream1.sersat.com/hls/argentinisima.m3u8"
   },
   {
-    "channel": "MisionesCuatro",
+    "channel": "Misiones Cuatro",
     "url": "https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8"
   },
   {
-    "channel": "ARTNTV",
+    "channel": "ARTN TV",
     "url": "https://streamer1.connectto.com/ARTN_mobile/index.m3u8"
   },
   {
-    "channel": "FirstChannelNews",
+    "channel": "First Channel News",
     "url": "https://amtvusdvr.tulix.tv/am3abr/index.m3u8"
   },
   {
-    "channel": "CoolFM98.9",
+    "channel": "Cool FM 98.9",
     "url": "https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8"
   },
   {
-    "channel": "HeartRadioAruba",
+    "channel": "Heart Radio Aruba",
     "url": "https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8"
   },
   {
-    "channel": "VIPTV",
+    "channel": "VIP TV",
     "url": "https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8"
   },
   {
-    "channel": "ABCMe",
+    "channel": "ABC Me",
     "url": "https://c.mjh.nz/abc-me.m3u8"
   },
   {
-    "channel": "BloombergTV",
+    "channel": "Bloomberg TV",
     "url": "https://bloomberg.com/media-manifest/streams/aus.m3u8"
   },
   {
-    "channel": "Channel44",
+    "channel": "Channel 44",
     "url": "https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8"
   },
   {
-    "channel": "HopeChannel",
+    "channel": "Hope Channel",
     "url": "https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8"
   },
   {
@@ -108,7 +108,7 @@
     "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8"
   },
   {
-    "channel": "TickerNews",
+    "channel": "Ticker News",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8"
   },
   {
@@ -116,7 +116,7 @@
     "url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8"
   },
   {
-    "channel": "FUELTV",
+    "channel": "FUEL TV",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8"
   },
   {
@@ -128,31 +128,31 @@
     "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8"
   },
   {
-    "channel": "OktoTV",
+    "channel": "Okto TV",
     "url": "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8"
   },
   {
-    "channel": "RedBullTV",
+    "channel": "Red Bull TV",
     "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
   },
   {
-    "channel": "TV1Oberösterreich",
+    "channel": "TV 1 Oberösterreich",
     "url": "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8"
   },
   {
-    "channel": "AZNews",
+    "channel": "AZ News",
     "url": "https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8"
   },
   {
-    "channel": "AzTV",
+    "channel": "Az TV",
     "url": "https://str.yodacdn.net/aztv/index.m3u8"
   },
   {
-    "channel": "EkusheyTV",
+    "channel": "Ekushey TV",
     "url": "https://ekusheyserver.com/etvlivesn.m3u8"
   },
   {
-    "channel": "CBCTV8",
+    "channel": "CBC TV8",
     "url": "https://1740288887.rsc.cdn77.org/1740288887/index.m3u8"
   },
   {
@@ -160,11 +160,11 @@
     "url": "https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8"
   },
   {
-    "channel": "BelRTL",
+    "channel": "Bel RTL",
     "url": "https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8"
   },
   {
-    "channel": "AfrikaMediaTV",
+    "channel": "Afrika Media TV",
     "url": "https://goccn.cloud/hls/belafrikatv/index.m3u8"
   },
   {
@@ -176,7 +176,7 @@
     "url": "https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8"
   },
   {
-    "channel": "StêrkTV",
+    "channel": "Stêrk TV",
     "url": "https://muzkurd.com/sterktv/sterk/playlist.m3u8"
   },
   {
@@ -184,19 +184,19 @@
     "url": "https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8"
   },
   {
-    "channel": "VTM2",
+    "channel": "VTM 2",
     "url": "https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8"
   },
   {
-    "channel": "BéninWebTV",
+    "channel": "Bénin Web TV",
     "url": "https://vdo.pro-fhi.net:3244/stream/play.m3u8"
   },
   {
-    "channel": "Canal3Bénin",
+    "channel": "Canal 3 Bénin",
     "url": "https://live.creacast.com/bluediamond/stream/playlist.m3u8"
   },
   {
-    "channel": "AbyaYalaTV",
+    "channel": "Abya Yala TV",
     "url": "https://master.tucableip.com/abyayalatv/playlist.m3u8"
   },
   {
@@ -204,7 +204,7 @@
     "url": "https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8"
   },
   {
-    "channel": "TVShowOruro",
+    "channel": "TV Show Oruro",
     "url": "http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8"
   },
   {
@@ -212,39 +212,39 @@
     "url": "https://media.streambrothers.com:19360/8022/8022.m3u8"
   },
   {
-    "channel": "BNTV",
+    "channel": "BN TV",
     "url": "https://rtvbn.tv:8080/live/index.m3u8"
   },
   {
-    "channel": "RTVZenica",
+    "channel": "RTV Zenica",
     "url": "https://stream.rtvze.ba/live/123/123.m3u8"
   },
   {
-    "channel": "AdessoTV",
+    "channel": "Adesso TV",
     "url": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8"
   },
   {
-    "channel": "AllSports",
+    "channel": "All Sports",
     "url": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8"
   },
   {
-    "channel": "BemTV",
+    "channel": "Bem TV",
     "url": "http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8"
   },
   {
-    "channel": "CanalEducação",
+    "channel": "Canal Educação",
     "url": "https://canaleducacao-stream.ebc.com.br/index.m3u8"
   },
   {
-    "channel": "CanalGov",
+    "channel": "Canal Gov",
     "url": "https://canalgov-stream.ebc.com.br/index.m3u8"
   },
   {
-    "channel": "NovoTempo",
+    "channel": "Novo Tempo",
     "url": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8"
   },
   {
-    "channel": "CBNTV",
+    "channel": "CBN TV",
     "url": "https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8"
   },
   {
@@ -252,79 +252,79 @@
     "url": "https://live.ecomservice.bg/hls/stream.m3u8"
   },
   {
-    "channel": "HopeChannel",
+    "channel": "Hope Channel",
     "url": "https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8"
   },
   {
-    "channel": "RMTV",
+    "channel": "RM TV",
     "url": "https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8"
   },
   {
-    "channel": "BurkinaInfoTV",
+    "channel": "Burkina Info TV",
     "url": "http://69.64.57.208/burkinainfo/index.m3u8"
   },
   {
-    "channel": "ApsaraTV11",
+    "channel": "Apsara TV11",
     "url": "https://live.ams.com.kh/app/stream/playlist.m3u8"
   },
   {
-    "channel": "BayonTV",
+    "channel": "Bayon TV",
     "url": "https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8"
   },
   {
-    "channel": "NetlinkTV",
+    "channel": "Netlink TV",
     "url": "https://netlink.netlinkbroadcaster.com/hls/test.m3u8"
   },
   {
-    "channel": "CENTélévision",
+    "channel": "CEN Télévision",
     "url": "https://strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8"
   },
   {
-    "channel": "CTVAfrique",
+    "channel": "CTV Afrique",
     "url": "https://stream.it-innov.com/ctv/index.m3u8"
   },
   {
-    "channel": "AfghanNobelMovies",
+    "channel": "Afghan Nobel Movies",
     "url": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8"
   },
   {
-    "channel": "AfghanNobelTV",
+    "channel": "Afghan Nobel TV",
     "url": "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8"
   },
   {
-    "channel": "AmazingDiscoveriesTV",
+    "channel": "Amazing Discoveries TV",
     "url": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8"
   },
   {
-    "channel": "AssembléeNationaleduQuébec",
+    "channel": "Assemblée Nationale du Québec",
     "url": "https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8"
   },
   {
-    "channel": "AzStarTV",
+    "channel": "Az Star TV",
     "url": "https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8"
   },
   {
-    "channel": "CanalSavoir",
+    "channel": "Canal Savoir",
     "url": "https://hls.savoir.media/live/stream.m3u8"
   },
   {
-    "channel": "TVCidade",
+    "channel": "TV Cidade",
     "url": "https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8"
   },
   {
-    "channel": "TéléTchad",
+    "channel": "Télé Tchad",
     "url": "https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8"
   },
   {
-    "channel": "13Entretención",
+    "channel": "13 Entretención",
     "url": "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8"
   },
   {
-    "channel": "13Festival",
+    "channel": "13 Festival",
     "url": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8"
   },
   {
-    "channel": "BreadTV面包台",
+    "channel": "Bread TV面包台",
     "url": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
   },
   {
@@ -332,11 +332,11 @@
     "url": "https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8"
   },
   {
-    "channel": "AgendaAlDíaTV",
+    "channel": "Agenda Al Día TV",
     "url": "https://cp.panelchs.com:1936/8156/8156/playlist.m3u8"
   },
   {
-    "channel": "ANCTelevisión",
+    "channel": "ANC Televisión",
     "url": "https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8"
   },
   {
@@ -344,7 +344,7 @@
     "url": "https://opa.usastreams.com:3101/live/canalopalive.m3u8"
   },
   {
-    "channel": "CristoVisiónCanal31",
+    "channel": "Cristo Visión Canal 31",
     "url": "https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8"
   },
   {
@@ -352,23 +352,23 @@
     "url": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
   },
   {
-    "channel": "CMCTV",
+    "channel": "CMC TV",
     "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8"
   },
   {
-    "channel": "HRT1",
+    "channel": "HRT 1",
     "url": "https://webtvstream.bhtelecom.ba/hrt1.m3u8"
   },
   {
-    "channel": "HRT2",
+    "channel": "HRT 2",
     "url": "https://webtvstream.bhtelecom.ba/hrt2.m3u8"
   },
   {
-    "channel": "HRT3",
+    "channel": "HRT 3",
     "url": "https://webtvstream.bhtelecom.ba/hrt3.m3u8"
   },
   {
-    "channel": "KlapeiTambureTV",
+    "channel": "Klape i Tambure TV",
     "url": "https://stream.cmctv.hr:49998/kit/live.m3u8"
   },
   {
@@ -376,19 +376,19 @@
     "url": "http://89.201.163.244:8080/hls/hdmi.m3u8"
   },
   {
-    "channel": "PrensaLatinaTV",
+    "channel": "Prensa Latina TV",
     "url": "https://eu1.servers10.com:8081/8192/index.m3u8"
   },
   {
-    "channel": "RadioyTelevisiónMartí",
+    "channel": "Radio y Televisión Martí",
     "url": "https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8"
   },
   {
-    "channel": "ADATV",
+    "channel": "ADA TV",
     "url": "https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8"
   },
   {
-    "channel": "ElektrikaTV",
+    "channel": "Elektrika TV",
     "url": "https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8"
   },
   {
@@ -404,51 +404,51 @@
     "url": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8"
   },
   {
-    "channel": "TV2Kosmopol",
+    "channel": "TV 2 Kosmopol",
     "url": "https://cdnapi.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8"
   },
   {
-    "channel": "TV2Nord",
+    "channel": "TV2 Nord",
     "url": "https://cdnapi.kaltura.com/p/1956931/sp/195693100/playManifest/entryId/1_h9yfe7h2/protocol/https/format/applehttp/a.m3u8"
   },
   {
-    "channel": "TV2Øst",
+    "channel": "TV2 Øst",
     "url": "https://cdnapi.kaltura.com/p/1953381/sp/195338100/playManifest/entryId/0_zphj9q61/protocol/https/format/applehttp/a.m3u8"
   },
   {
-    "channel": "TDNTV",
+    "channel": "TDN TV",
     "url": "https://liveurestreamingcomlive.cdn.ypt.me/62ec67ea435c6.m3u8"
   },
   {
-    "channel": "Agenda56",
+    "channel": "Agenda 56",
     "url": "https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8"
   },
   {
-    "channel": "Amé47",
+    "channel": "Amé 47",
     "url": "https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8"
   },
   {
-    "channel": "BonaoTV",
+    "channel": "Bonao TV",
     "url": "https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8"
   },
   {
-    "channel": "AméricaEstéreoGuayaquil",
+    "channel": "América Estéreo Guayaquil",
     "url": "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8"
   },
   {
-    "channel": "AméricaEstéreoIbarra",
+    "channel": "América Estéreo Ibarra",
     "url": "https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8"
   },
   {
-    "channel": "AlfathAtfalTV",
+    "channel": "Alfath Atfal TV",
     "url": "https://alfat7-q.com:5443/LiveApp/streams/434833549141598440488987.m3u8"
   },
   {
-    "channel": "AlfathSonnahTV",
+    "channel": "Alfath Sonnah TV",
     "url": "https://alfat7-q.com:5443/LiveApp/streams/986613792230697141226562.m3u8"
   },
   {
-    "channel": "Canal3Impresionante",
+    "channel": "Canal 3 Impresionante",
     "url": "https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8"
   },
   {
@@ -456,15 +456,15 @@
     "url": "https://stream.solmediaeg.com/soltv/soltv.m3u8"
   },
   {
-    "channel": "AddisTV",
+    "channel": "Addis TV",
     "url": "https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8"
   },
   {
-    "channel": "EBSCinema",
+    "channel": "EBS Cinema",
     "url": "https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8"
   },
   {
-    "channel": "EBSHD",
+    "channel": "EBS HD",
     "url": "https://rpn.bozztv.com/ebstv/ebstv/index.m3u8"
   },
   {
@@ -476,23 +476,23 @@
     "url": "https://live-fi.tvkaista.net/frii/live.m3u8"
   },
   {
-    "channel": "HimlenTV7",
+    "channel": "Himlen TV7",
     "url": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8"
   },
   {
-    "channel": "20MinutesTV",
+    "channel": "20 Minutes TV",
     "url": "https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8"
   },
   {
-    "channel": "A12TV",
+    "channel": "A12 TV",
     "url": "https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8"
   },
   {
-    "channel": "AlbiTV",
+    "channel": "Albi TV",
     "url": "https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8"
   },
   {
-    "channel": "AbazaTV",
+    "channel": "Abaza TV",
     "url": "https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8"
   },
   {
@@ -500,19 +500,19 @@
     "url": "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8"
   },
   {
-    "channel": "ImediTV",
+    "channel": "Imedi TV",
     "url": "https://tv.cdn.xsg.ge/imedihd/index.m3u8"
   },
   {
-    "channel": "1-2-3TV",
+    "channel": "1-2-3 TV",
     "url": "https://123tv-mx1.flex-cdn.net/index.m3u8"
   },
   {
-    "channel": "Anixe+",
+    "channel": "Anixe +",
     "url": "https://ma.anixa.tv/clips/stream/anixesd/index.m3u8"
   },
   {
-    "channel": "AnixeHDSerie",
+    "channel": "Anixe HD Serie",
     "url": "https://ma.anixa.tv/clips/stream/anixehd/index.m3u8"
   },
   {
@@ -520,63 +520,63 @@
     "url": "http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8"
   },
   {
-    "channel": "AristoTV",
+    "channel": "Aristo TV",
     "url": "https://ma.anixa.tv/clips/stream/aristo/index.m3u8"
   },
   {
-    "channel": "ChannelOneTV",
+    "channel": "ChannelOne TV",
     "url": "https://2ctv.crystaltv.mobi:44095/tv877.167.m3u8"
   },
   {
-    "channel": "GHtvHolland",
+    "channel": "GHtv Holland",
     "url": "http://37.48.120.77:8080/hls/ghtvonline.m3u8"
   },
   {
-    "channel": "HopeChannelGhana",
+    "channel": "Hope Channel Ghana",
     "url": "https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8"
   },
   {
-    "channel": "ARTTV",
+    "channel": "ART TV",
     "url": "https://til.pp.ua:3711/live/arttvgr70live.m3u8"
   },
   {
-    "channel": "BarazaTVDeepHouse",
+    "channel": "Baraza TV Deep House",
     "url": "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8"
   },
   {
-    "channel": "RadioTVBasse-Terre",
+    "channel": "Radio TV Basse-Terre",
     "url": "https://vdo.ssl-stream.com:3412/stream/play.m3u8"
   },
   {
-    "channel": "RHTGuadeloupe",
+    "channel": "RHT Guadeloupe",
     "url": "https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8"
   },
   {
-    "channel": "AuroraMediaFilms",
+    "channel": "Aurora Media Films",
     "url": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
   },
   {
-    "channel": "CaviTV",
+    "channel": "Cavi TV",
     "url": "https://helga.iptv2022.com/Cavi_TV/index.m3u8"
   },
   {
-    "channel": "FLSport",
+    "channel": "FL Sport",
     "url": "https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8"
   },
   {
-    "channel": "FideleTV",
+    "channel": "Fidele TV",
     "url": "https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8"
   },
   {
-    "channel": "RadioTélé4VEH",
+    "channel": "Radio Télé 4VEH",
     "url": "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8"
   },
   {
-    "channel": "BloombergTVAsia",
+    "channel": "Bloomberg TV Asia",
     "url": "https://bloomberg.com/media-manifest/streams/asia.m3u8"
   },
   {
-    "channel": "BloombergTVAsiaLiveEvent",
+    "channel": "Bloomberg TV Asia Live Event",
     "url": "https://bloomberg.com/media-manifest/streams/asia-event.m3u8"
   },
   {
@@ -584,7 +584,7 @@
     "url": "http://php.17186.eu.org/phtv/fhzx.m3u8"
   },
   {
-    "channel": "16tvBudapest",
+    "channel": "16tv Budapest",
     "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8"
   },
   {
@@ -604,7 +604,7 @@
     "url": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"
   },
   {
-    "channel": "AajTak",
+    "channel": "Aaj Tak",
     "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
   },
   {
@@ -612,15 +612,15 @@
     "url": "https://e.siar.us/live/aktv.m3u8"
   },
   {
-    "channel": "AlborzTV",
+    "channel": "Alborz TV",
     "url": "https://hls.247box.live/hls/stream.m3u8"
   },
   {
-    "channel": "AbalfadhlTV",
+    "channel": "Abalfadhl TV",
     "url": "https://t.northtelecom.org/ABALFADHLTV.m3u8"
   },
   {
-    "channel": "AfaqTV",
+    "channel": "Afaq TV",
     "url": "http://63b03f7689049.streamlock.net:1935/live/1/playlist.m3u8"
   },
   {
@@ -628,7 +628,7 @@
     "url": "https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8"
   },
   {
-    "channel": "ch21ערוץהקניות",
+    "channel": "ch 21 ערוץ הקניות",
     "url": "https://shoppingil-rewriter.vidnt.com/index.m3u8"
   },
   {
@@ -636,19 +636,19 @@
     "url": "https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8"
   },
   {
-    "channel": "AuroraArte",
+    "channel": "Aurora Arte",
     "url": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8"
   },
   {
-    "channel": "AlphaetOmegaTV",
+    "channel": "Alpha et Omega TV",
     "url": "https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8"
   },
   {
-    "channel": "CaribbeanGospelTV",
+    "channel": "Caribbean Gospel TV",
     "url": "https://5a1178b42cc03.streamlock.net:443/CGTV2024/CGTV2024/playlist.m3u8"
   },
   {
-    "channel": "Fame95FM",
+    "channel": "Fame95 FM",
     "url": "https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8"
   },
   {
@@ -656,11 +656,11 @@
     "url": "https://neetball.net/live/neet3.m3u8"
   },
   {
-    "channel": "CGNTVJapan",
+    "channel": "CGNTV Japan",
     "url": "https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8"
   },
   {
-    "channel": "NTVNews24",
+    "channel": "NTV News24",
     "url": "https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8"
   },
   {
@@ -668,19 +668,19 @@
     "url": "https://jmc-live.ercdn.net/alhaqiqa/alhaqiqa.m3u8"
   },
   {
-    "channel": "KaifaTV",
+    "channel": "Kaifa TV",
     "url": "hhttp://82.212.74.2:8000/live/7311.m3u8"
   },
   {
-    "channel": "AbaiTV",
+    "channel": "Abai TV",
     "url": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8"
   },
   {
-    "channel": "AlauTV",
+    "channel": "Alau TV",
     "url": "https://otv.wotom.net/alau/stream.m3u8"
   },
   {
-    "channel": "BalapanTV",
+    "channel": "Balapan TV",
     "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8"
   },
   {
@@ -692,79 +692,79 @@
     "url": "https://stream.kaztrk.kz/regional/semeytv/index.m3u8"
   },
   {
-    "channel": "CitizenExtra",
+    "channel": "Citizen Extra",
     "url": "https://74937.global.ssl.fastly.net/5ea49827ff3b5d7b22708777/live_40c5808063f711ec89a87b62db2ecab5/index.m3u8"
   },
   {
-    "channel": "InooroTV",
+    "channel": "Inooro TV",
     "url": "https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8"
   },
   {
-    "channel": "MorningCloudTV",
+    "channel": "Morning Cloud TV",
     "url": "https://webstreaming.viewmedia.tv/web_026/Stream/playlist.m3u8"
   },
   {
-    "channel": "RamogiTV",
+    "channel": "Ramogi TV",
     "url": "https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8"
   },
   {
-    "channel": "TVArbëria1",
+    "channel": "TV Arbëria 1",
     "url": "https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8"
   },
   {
-    "channel": "Arbëria2",
+    "channel": "Arbëria 2",
     "url": "https://ssh101.bozztv.com/ssh101/rtvarberia2/playlist.m3u8"
   },
   {
-    "channel": "TVArbëria3Fëmijë",
+    "channel": "TV Arbëria 3 Fëmijë",
     "url": "https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8"
   },
   {
-    "channel": "TVArbëria4Muzikë",
+    "channel": "TV Arbëria 4 Muzikë",
     "url": "https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8"
   },
   {
-    "channel": "TVArbëria5",
+    "channel": "TV Arbëria 5",
     "url": "https://ssh101.bozztv.com/ssh101/rtvarberia5/playlist.m3u8"
   },
   {
-    "channel": "KTV1",
+    "channel": "KTV 1",
     "url": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8"
   },
   {
-    "channel": "KTV2",
+    "channel": "KTV 2",
     "url": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8"
   },
   {
-    "channel": "KTVSport",
+    "channel": "KTV Sport",
     "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
   },
   {
-    "channel": "312Кино",
+    "channel": "312 Кино",
     "url": "http://176.126.166.43:1935/live/312kino/playlist.m3u8"
   },
   {
-    "channel": "312TB",
+    "channel": "312 TB",
     "url": "http://176.126.166.43:1935/live/312musik/playlist.m3u8"
   },
   {
-    "channel": "TV1KG",
+    "channel": "TV1 KG",
     "url": "http://212.2.225.30:1935/live/site.stream/playlist.m3u8"
   },
   {
-    "channel": "BrianTV",
+    "channel": "Brian TV",
     "url": "https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8"
   },
   {
-    "channel": "CaribbeanHot7TV",
+    "channel": "Caribbean Hot 7 TV",
     "url": "https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8"
   },
   {
-    "channel": "AlMayadeen",
+    "channel": "Al Mayadeen",
     "url": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8"
   },
   {
-    "channel": "ALWifakNewsTV",
+    "channel": "ALWifak News TV",
     "url": "http://stream.spilebanon.com:1935/live/myStream/playlist.m3u8"
   },
   {
@@ -772,7 +772,7 @@
     "url": "http://185.59.221.131:8081/live/lntv/playlist.m3u8"
   },
   {
-    "channel": "AlMasarTV",
+    "channel": "Al Masar TV",
     "url": "https://master.starmena-cloud.com/hls/almasar.m3u8"
   },
   {
@@ -780,15 +780,15 @@
     "url": "https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8"
   },
   {
-    "channel": "apartTV",
+    "channel": "apart TV",
     "url": "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8"
   },
   {
-    "channel": "ChamberTV",
+    "channel": "Chamber TV",
     "url": "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8"
   },
   {
-    "channel": "ReTV",
+    "channel": "Re TV",
     "url": "https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8"
   },
   {
@@ -796,43 +796,43 @@
     "url": "https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8"
   },
   {
-    "channel": "AlMasarTV",
+    "channel": "Al Masar TV",
     "url": "https://master.starmena-cloud.com/hls/almasar.m3u8"
   },
   {
-    "channel": "FebruaryChannel",
+    "channel": "February Channel",
     "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8"
   },
   {
-    "channel": "2MMonde",
+    "channel": "2M Monde",
     "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8"
   },
   {
-    "channel": "ChadaTV",
+    "channel": "Chada TV",
     "url": "https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8"
   },
   {
-    "channel": "TéléMaroc",
+    "channel": "Télé Maroc",
     "url": "https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8"
   },
   {
-    "channel": "SuperyachtTV",
+    "channel": "Superyacht TV",
     "url": "https://sy.wns.live/hls/stream.m3u8"
   },
   {
-    "channel": "TVTeuta",
+    "channel": "TV Teuta",
     "url": "https://teutastream.com/tvteuta/tracks-v1a1/mono.m3u8"
   },
   {
-    "channel": "FolkKlub",
+    "channel": "Folk Klub",
     "url": "http://tv1.intv.mk:1935/live2/folkklub/index.m3u8"
   },
   {
-    "channel": "INTVAustralia",
+    "channel": "INTV Australia",
     "url": "http://tv1.intv.mk:1935/live/intv/index.m3u8"
   },
   {
-    "channel": "ChannelK",
+    "channel": "Channel K",
     "url": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8"
   },
   {
@@ -848,123 +848,123 @@
     "url": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8"
   },
   {
-    "channel": "AfroSportNigeria",
+    "channel": "AfroSport Nigeria",
     "url": "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8"
   },
   {
-    "channel": "AMusicChannel",
+    "channel": "AMusic Channel",
     "url": "http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8"
   },
   {
-    "channel": "DoveTV",
+    "channel": "Dove TV",
     "url": "https://webstreaming-7.viewmedia.tv/web_093/Stream/live93_3/high/playlist.m3u8"
   },
   {
-    "channel": "CanalMotor",
+    "channel": "Canal Motor",
     "url": "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8"
   },
   {
-    "channel": "TVModum",
+    "channel": "TV Modum",
     "url": "https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8"
   },
   {
-    "channel": "AlistiqamaTV",
+    "channel": "Alistiqama TV",
     "url": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8"
   },
   {
-    "channel": "OmanAlthakafia",
+    "channel": "Oman Althakafia",
     "url": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8"
   },
   {
-    "channel": "AlEhsaanTV",
+    "channel": "Al Ehsaan TV",
     "url": "https://cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8"
   },
   {
-    "channel": "DiscoverPakistan",
+    "channel": "Discover Pakistan",
     "url": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8"
   },
   {
-    "channel": "KuriakosTV",
+    "channel": "Kuriakos TV",
     "url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8"
   },
   {
-    "channel": "ONFM",
+    "channel": "ON FM",
     "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8"
   },
   {
-    "channel": "RTPInternationalAsia",
+    "channel": "RTP International Asia",
     "url": "http://210.210.155.37/qwr9ew/s/s38/index.m3u8"
   },
   {
-    "channel": "CinemaOne",
+    "channel": "Cinema One",
     "url": "https://cinemaone-abscbn-ono.amagi.tv/index.m3u8"
   },
   {
-    "channel": "GreatCommissionTV",
+    "channel": "Great Commission TV",
     "url": "http://45.32.115.103/live/livestream/index.m3u8"
   },
   {
-    "channel": "MYXPhilippines",
+    "channel": "MYX Philippines",
     "url": "https://myxnola-abscbn-ono.amagi.tv/index.m3u8"
   },
   {
-    "channel": "AlJazeeraArabic",
+    "channel": "Al Jazeera Arabic",
     "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8"
   },
   {
-    "channel": "AlJazeeraBalkans",
+    "channel": "Al Jazeera Balkans",
     "url": "https://live-hls-web-ajb.getaj.net/AJB/index.m3u8"
   },
   {
-    "channel": "AlJazeeraEnglish",
+    "channel": "Al Jazeera English",
     "url": "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8"
   },
   {
-    "channel": "QatarTelevision",
+    "channel": "Qatar Television",
     "url": "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8"
   },
   {
-    "channel": "7TV",
+    "channel": "7 TV",
     "url": "http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8"
   },
   {
-    "channel": "KulinarTVShow",
+    "channel": "Kulinar TV Show",
     "url": "https://api.alpaca.t62a.com/hls/9110/index.m3u8"
   },
   {
-    "channel": "OceanTV",
+    "channel": "Ocean TV",
     "url": "http://camera.global-x.ru/OceanTV/index.m3u8"
   },
   {
-    "channel": "ЮвелирочкаТВ",
+    "channel": "Ювелирочка ТВ",
     "url": "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8"
   },
   {
-    "channel": "AlEkhbariya",
+    "channel": "Al Ekhbariya",
     "url": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8"
   },
   {
-    "channel": "AsharqDiscovery",
+    "channel": "Asharq Discovery",
     "url": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
   },
   {
-    "channel": "AsharqDocumentary",
+    "channel": "Asharq Documentary",
     "url": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8"
   },
   {
-    "channel": "AsharqNews",
+    "channel": "Asharq News",
     "url": "https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8"
   },
   {
-    "channel": "CNAInternational",
+    "channel": "CNA International",
     "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
   },
   {
-    "channel": "ZooMooAsia",
+    "channel": "ZooMoo Asia",
     "url": "https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8"
   },
   {
-    "channel": "ABNTV",
+    "channel": "ABN TV",
     "url": "https://vod2.abn.co.kr/IPHONE/abn.m3u8"
   },
   {
@@ -976,11 +976,11 @@
     "url": "https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8"
   },
   {
-    "channel": "AfriwoodSeries",
+    "channel": "Afriwood Series",
     "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8"
   },
   {
-    "channel": "CinemaHausa",
+    "channel": "Cinema Hausa",
     "url": "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8"
   },
   {
@@ -988,135 +988,135 @@
     "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8"
   },
   {
-    "channel": "SportsConnect",
+    "channel": "Sports Connect",
     "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8"
   },
   {
-    "channel": "BeautifulLifeTV",
+    "channel": "Beautiful Life TV",
     "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
   },
   {
-    "channel": "DaliTV",
+    "channel": "Dali TV",
     "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8"
   },
   {
-    "channel": "IBNTV",
+    "channel": "IBN TV",
     "url": "http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8"
   },
   {
-    "channel": "AboodTV",
+    "channel": "Abood TV",
     "url": "https://goliveafrica.media:9998/live/644db46d1b776/index.m3u8"
   },
   {
-    "channel": "24Канал",
+    "channel": "24 Канал",
     "url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8"
   },
   {
-    "channel": "BamBarBiaTV",
+    "channel": "BamBarBia TV",
     "url": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8"
   },
   {
-    "channel": "BlackSeaTV",
+    "channel": "Black Sea TV",
     "url": "https://stream.skyvision.com.ua/blackseatv/stream/main/playlist.m3u8"
   },
   {
-    "channel": "AlphaDigital",
+    "channel": "Alpha Digital",
     "url": "http://streamfi-alphadgtl1.zettawiseroutes.com:8080/hls/stream_src.m3u8"
   },
   {
-    "channel": "BBSTV",
+    "channel": "BBS TV",
     "url": "https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/BBSTV/5-hls/live-media.m3u8"
   },
   {
-    "channel": "BukeddeTV1",
+    "channel": "Bukedde TV 1",
     "url": "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8"
   },
   {
-    "channel": "KSTVUganda",
+    "channel": "KSTV Uganda",
     "url": "https://readymedia.moderntv.cloud:8092/distribute/readymedia/KS_TV_stream_dc/5-20-hls/live.m3u8"
   },
   {
-    "channel": "BBCNews(NorthAmerica)",
+    "channel": "BBC News (North America)",
     "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8"
   },
   {
-    "channel": "BENTelevision",
+    "channel": "BEN Television",
     "url": "https://webstreaming-11.viewmedia.tv/web_153/Stream/playlist.m3u8"
   },
   {
-    "channel": "BloombergTVEurope",
+    "channel": "Bloomberg TV Europe",
     "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8"
   },
   {
-    "channel": "GBNews",
+    "channel": "GB News",
     "url": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8"
   },
   {
-    "channel": "ABCNewsLive1",
+    "channel": "ABC News Live 1",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8"
   },
   {
-    "channel": "ABCNewsLive2",
+    "channel": "ABC News Live 2",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8"
   },
   {
-    "channel": "ABCNewsLive3",
+    "channel": "ABC News Live 3",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8"
   },
   {
-    "channel": "ABCNewsLive4",
+    "channel": "ABC News Live 4",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8"
   },
   {
-    "channel": "ABCNewsLive5",
+    "channel": "ABC News Live 5",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8"
   },
   {
-    "channel": "ABCNewsLive6",
+    "channel": "ABC News Live 6",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8"
   },
   {
-    "channel": "ABCNewsLive7",
+    "channel": "ABC News Live 7",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8"
   },
   {
-    "channel": "ABCNewsLive8",
+    "channel": "ABC News Live 8",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8"
   },
   {
-    "channel": "ABCNewsLive9",
+    "channel": "ABC News Live 9",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8"
   },
   {
-    "channel": "ABCNewsLive10",
+    "channel": "ABC News Live 10",
     "url": "https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8"
   },
   {
-    "channel": "AdultSwimChannel5",
+    "channel": "Adult Swim Channel 5",
     "url": "https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8"
   },
   {
-    "channel": "30AGeorgiaHollywoodReviewTV",
+    "channel": "30A Georgia Hollywood Review TV",
     "url": "https://30a-tv.com/gh.m3u8"
   },
   {
-    "channel": "ABNChina",
+    "channel": "ABN China",
     "url": "https://mediaserver.abnvideos.com/streams/abnchina.m3u8"
   },
   {
-    "channel": "ABNTVIndia",
+    "channel": "ABN TV India",
     "url": "https://mediaserver.abnvideos.com/streams/abntvindia.m3u8"
   },
   {
-    "channel": "BeachTVPanamaCity",
+    "channel": "Beach TV Panama City",
     "url": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8"
   },
   {
-    "channel": "BloombergTV+UHD",
+    "channel": "Bloomberg TV+ UHD",
     "url": "https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8"
   },
   {
-    "channel": "FOXNewsNow",
+    "channel": "FOX News Now",
     "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"
   },
   {
@@ -1124,91 +1124,91 @@
     "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
   },
   {
-    "channel": "AguacateTV",
+    "channel": "Aguacate TV",
     "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
   },
   {
-    "channel": "BTATV",
+    "channel": "BTA TV",
     "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
   },
   {
-    "channel": "CantinaTV",
+    "channel": "Cantina TV",
     "url": "https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8"
   },
   {
-    "channel": "BacNinhTV",
+    "channel": "Bac Ninh TV",
     "url": "https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8"
   },
   {
-    "channel": "CaoBangTV",
+    "channel": "Cao Bang TV",
     "url": "http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8"
   },
   {
-    "channel": "DhammasaphaTV",
+    "channel": "Dhammasapha TV",
     "url": "https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8"
   },
   {
-    "channel": "HaTinhTV",
+    "channel": "Ha Tinh TV",
     "url": "https://wse.hatinhtv.net/live/httv1/playlist.m3u8"
   },
   {
-    "channel": "LittleSaigonTV",
+    "channel": "Little Saigon TV",
     "url": "https://media.streambrothers.com:1936/8228/8228/playlist.m3u8"
   },
   {
-    "channel": "ThaiNguyenTV",
+    "channel": "Thai Nguyen TV",
     "url": "https://streaming.thainguyentv.vn/hls/livestream.m3u8"
   },
   {
-    "channel": "TienGiang",
+    "channel": "Tien Giang",
     "url": "http://thtg.vn:8001/thtg.m3u8"
   },
   {
-    "channel": "AlmahriahTV",
+    "channel": "Almahriah TV",
     "url": "https://master.starmena-cloud.com/hls/almahriah.m3u8"
   },
   {
-    "channel": "YemenTodayTV",
+    "channel": "Yemen Today TV",
     "url": "https://video.yementdy.tv/hls/yementoday.m3u8"
   },
   {
-    "channel": "1KZNTV",
+    "channel": "1KZN TV",
     "url": "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8"
   },
   {
-    "channel": "AfrobeatsTV",
+    "channel": "Afrobeats TV",
     "url": "https://stream.ecable.tv/afrobeats/index.m3u8"
   },
   {
-    "channel": "CapeTownTV",
+    "channel": "Cape Town TV",
     "url": "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8"
   },
   {
-    "channel": "GODTVAfrica",
+    "channel": "GOD TV Africa",
     "url": "https://webstreaming.viewmedia.tv/web_006/Stream/playlist.m3u8"
   },
   {
-    "channel": "HilaalTV",
+    "channel": "Hilaal TV",
     "url": "https://cdn5.iqsat.net/iq/aa89b15058a61b904359307cc0a5e80a.sdp/playlist.m3u8"
   },
   {
-    "channel": "SABCNews",
+    "channel": "SABC News",
     "url": "http://185.59.221.131:8081/live/sabcnews/playlist.m3u8"
   },
   {
-    "channel": "SowetoTV",
+    "channel": "Soweto TV",
     "url": "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8"
   },
   {
-    "channel": "MYXPhilippines",
+    "channel": "MYX Philippines",
     "url": "https://myxnola-abscbn-ono.amagi.tv/index.m3u8"
   },
   {
-    "channel": "GreatCommissionTV",
+    "channel": "Great Commission TV",
     "url": "http://45.32.115.103/live/livestream/index.m3u8"
   },
   {
-    "channel": "CinemaOne",
+    "channel": "Cinema One",
     "url": "https://cinemaone-abscbn-ono.amagi.tv/index.m3u8"
   }
 ]
