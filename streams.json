@@ -149,7 +149,7 @@
 
  
   
-    {"channel":"EuronewsFrench.fr","url":"https://r1---sn-5abxgpxuxaxjvh-j1az.gvt1.com/videoplayback/id/308002bdc96b2b99/itag/37/source/dclk_video_ads/acao/yes/cpn/CenbPY3Biw-Ns3-D/ctier/L/ei/LWhDZ4faLIa-hcIP3aKDmQc/ip/0.0.0.0/requiressl/yes/susc/dvc/xpc/Eghovf3BOnoBAQ%3D%3D/expire/1764006829/sparams/expire,ei,ip,ctier,source,id,itag,requiressl,acao,susc,xpc/sig/AJfQdSswRQIgdniaKsqXr-xSRCHdgCyNxWwiCahWFctIoY_m6au6DYcCIQCtFwpeL1D63UzdkCRmrkWOVTMncfAXr_PgxyT4fXMmlw%3D%3D/cms_redirect/yes/met/1732470830,/mh/aP/mip/105.110.128.24/mm/28/mn/sn-5abxgpxuxaxjvh-j1az/ms/nvh/mt/1732470498/mv/m/mvi/1/pl/18/rms/nvh,nvh/lsparams/met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRAIgb4ENDyCnD47iQPo96DlfnsZj216Whzp5S8223EjWJCsCIDHDpdiFG93PNIgn2QPSJqHGpXZdF-vYUaM0FwgZxlO8/file/file.mp4"},
+    {"channel":"EuronewsFrench.fr","url":"http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8"},
     {"channel":"EuronewsGerman.fr","url":"https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8"},
     {"channel":"EuronewsGerman.fr","url":"https://euronews.alteox.app/hls/de_stream.m3u8"},
     {"channel":"EuronewsGerman.fr","url":"https://stream.ads.ottera.tv/playlist.m3u8?network_id=2573"},
