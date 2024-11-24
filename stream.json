@@ -11080,5 +11080,7 @@
 {"channel":"Zvezda.ru","url":"https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8"},
 {"channel":"Zvezda.ru","url":"https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD.m3u8"},
 {"channel":"ZweiMusicTelevision.de","url":"https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8"},
-{"channel":"ZZTV.rs","url":"https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8"}
+{"channel":"ZZTV.rs","url":"https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8"},
+{"channel":"beINSports.qa","url":"http://premium-play.org:8000/saidclt201/XmQat4ju/2828"}
+
 ]
