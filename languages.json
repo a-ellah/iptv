@@ -1,7 +1,7 @@
 [
-  { "code": "ara", "name": "01 Arabic" },
-  { "code": "eng", "name": "02 English" },
-  { "code": "spa", "name": "03 Spanish" },
+  { "code": "eng", "name": "01 English" },
+  { "code": "spa", "name": "02 Spanish" },
+  { "code": "ara", "name": "03 Arabic" },
   { "code": "fra", "name": "04 French" },
   { "code": "por", "name": "05 Portuguese" },
   { "code": "deu", "name": "06 German" },
