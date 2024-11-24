@@ -1,5 +1,5 @@
 [
-  { "id": "all", "name": "00 All TV Channels" },
+  { "id": "all", "name": "All TV Channels" },
   { "id": "sports", "name": "01 Sports" },
   { "id": "news", "name": "02 News" },
   { "id": "movies", "name": "03 Movies" },
