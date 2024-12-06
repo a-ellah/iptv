@@ -3,11 +3,99 @@
     "id": "1",
     "date": "06-12-2024",
     "name": "صيدليات بلدية جيجـــل",
-    "image": "https://i.imgur.com/qRrOi3t.png",
+    "image": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/pharmacies/jijel-1.jpg",
     "map": "https://maps.app.goo.gl/S2hA4PdDd1syyuPp8",
     "phone": "034471656",
     "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
     "opened": ["all", "jijel"],
     "locations": ["all", "jijel"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات بلدية جيجـــل",
+    "image": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/pharmacies/jijel-2.jpg",
+    "map": "https://maps.app.goo.gl/beqiVKrrrxipm5F58",
+    "phone": "034471656",
+    "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
+    "opened": ["all", "jijel"],
+    "locations": ["all", "jijel"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات بلدية جيجـــل",
+    "image": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/pharmacies/jijel-3.jpg",
+    "map": "https://maps.app.goo.gl/beqiVKrrrxipm5F58",
+    "phone": "034471656",
+    "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
+    "opened": ["all", "jijel"],
+    "locations": ["all", "jijel"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات بلدية جيجـــل",
+    "image": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/pharmacies/milia-1.jpg",
+    "map": "https://maps.app.goo.gl/AB9o3hK8CGi6LqVaA",
+    "phone": "034471656",
+    "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
+    "opened": ["all", "milia"],
+    "locations": ["all", "milia"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات بلدية جيجـــل",
+    "image": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/pharmacies/milia-2.jpg",
+    "map": "https://maps.app.goo.gl/AB9o3hK8CGi6LqVaA",
+    "phone": "034471656",
+    "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
+    "opened": ["all", "milia"],
+    "locations": ["all", "milia"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات بلدية جيجـــل",
+    "image": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/pharmacies/milia-3.jpg",
+    "map": "https://maps.app.goo.gl/AB9o3hK8CGi6LqVaA",
+    "phone": "034471656",
+    "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
+    "opened": ["all", "milia"],
+    "locations": ["all", "milia"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات بلدية جيجـــل",
+    "image": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/pharmacies/taher-1.jpg",
+    "map": "https://maps.app.goo.gl/adM4QZq2CA5y2Lx69",
+    "phone": "034471656",
+    "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
+    "opened": ["all", "taher"],
+    "locations": ["all", "taher"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات بلدية جيجـــل",
+    "image": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/pharmacies/taher-2.jpg",
+    "map": "https://maps.app.goo.gl/adM4QZq2CA5y2Lx69",
+    "phone": "034471656",
+    "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
+    "opened": ["all", "taher"],
+    "locations": ["all", "taher"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات بلدية جيجـــل",
+    "image": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/pharmacies/taher-3.jpg",
+    "map": "https://maps.app.goo.gl/adM4QZq2CA5y2Lx69",
+    "phone": "034471656",
+    "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
+    "opened": ["all", "taher"],
+    "locations": ["all", "taher"]
   }
 ]
