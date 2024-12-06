@@ -7,8 +7,8 @@
     "map": "https://maps.app.goo.gl/S2hA4PdDd1syyuPp8",
     "phone": "034471656",
     "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
-    "opened": ["open", "jijel"],
-    "regions": ["all", "jijel"]
+    "categories": ["open", "jijel"],
+    "languages": ["all", "jijel"]
   },
   {
     "id": "1",
@@ -18,8 +18,8 @@
     "map": "https://maps.app.goo.gl/beqiVKrrrxipm5F58",
     "phone": "034471656",
     "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
-    "opened": ["open", "jijel"],
-    "regions": ["all", "jijel"]
+    "categories": ["open", "jijel"],
+    "languages": ["all", "jijel"]
   },
   {
     "id": "1",
@@ -29,8 +29,8 @@
     "map": "https://maps.app.goo.gl/beqiVKrrrxipm5F58",
     "phone": "034471656",
     "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
-    "opened": ["open", "jijel"],
-    "regions": ["all", "jijel"]
+    "categories": ["open", "jijel"],
+    "languages": ["all", "jijel"]
   },
   {
     "id": "1",
@@ -40,8 +40,8 @@
     "map": "https://maps.app.goo.gl/AB9o3hK8CGi6LqVaA",
     "phone": "034471656",
     "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
-    "opened": ["open", "milia"],
-    "regions": ["all", "milia"]
+    "categories": ["open", "milia"],
+    "languages": ["all", "milia"]
   },
   {
     "id": "1",
@@ -51,8 +51,8 @@
     "map": "https://maps.app.goo.gl/AB9o3hK8CGi6LqVaA",
     "phone": "034471656",
     "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
-    "opened": ["open", "milia"],
-    "regions": ["all", "milia"]
+    "categories": ["open", "milia"],
+    "languages": ["all", "milia"]
   },
   {
     "id": "1",
@@ -62,8 +62,8 @@
     "map": "https://maps.app.goo.gl/AB9o3hK8CGi6LqVaA",
     "phone": "034471656",
     "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
-    "opened": ["open", "milia"],
-    "regions": ["all", "milia"]
+    "categories": ["open", "milia"],
+    "languages": ["all", "milia"]
   },
   {
     "id": "1",
@@ -73,8 +73,8 @@
     "map": "https://maps.app.goo.gl/adM4QZq2CA5y2Lx69",
     "phone": "034471656",
     "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
-    "opened": ["open", "taher"],
-    "regions": ["all", "taher"]
+    "categories": ["open", "taher"],
+    "languages": ["all", "taher"]
   },
   {
     "id": "1",
@@ -84,8 +84,8 @@
     "map": "https://maps.app.goo.gl/adM4QZq2CA5y2Lx69",
     "phone": "034471656",
     "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
-    "opened": ["open", "taher"],
-    "regions": ["all", "taher"]
+    "categories": ["open", "taher"],
+    "languages": ["all", "taher"]
   },
   {
     "id": "1",
@@ -95,7 +95,7 @@
     "map": "https://maps.app.goo.gl/adM4QZq2CA5y2Lx69",
     "phone": "034471656",
     "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
-    "opened": ["open", "taher"],
-    "regions": ["all", "taher"]
+    "categories": ["open", "taher"],
+    "languages": ["all", "taher"]
   }
 ]
