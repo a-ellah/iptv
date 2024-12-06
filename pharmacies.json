@@ -1,0 +1,219 @@
+[
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.imgur.com/qRrOi3t.png",
+    "map": "",
+    "phone": "",
+    "address": "ولايــــة جيجـــل",
+    "opened": ["all", "jijel"],
+    "locations": ["all", "jijel"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.ibb.co/nQkLgyn/dunya-naw-tv.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "taher"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.imgur.com/To7VnsA.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "milia"],
+    "locations": ["all", "milia"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://rta.af/artmedia/2022/12/rta-logo-final-300x185.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "jijel"],
+    "locations": ["afg"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.imgur.com/edGyj5H.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "taher"],
+    "locations": ["afg"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sharq_TV_Logo_2020.jpg/440px-Sharq_TV_Logo_2020.jpg",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "milia"],
+    "locations": ["afg"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.imgur.com/JdKxscs.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "jijel"],
+    "locations": ["ala"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.imgur.com/rL2v9pM.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "taher"],
+    "locations": ["ala"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/512px-Ora_News_%28Albania%29.svg.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "milia"],
+    "locations": ["ala"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.imgur.com/VEb631f.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "jijel"],
+    "locations": ["fra"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.imgur.com/gTabgkN.jpg",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "taher"],
+    "locations": ["fra"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.imgur.com/fBeaJoS.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "milia"],
+    "locations": ["fra"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.imgur.com/60vSWW0.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "jijel"],
+    "locations": ["arg"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://alternatv.ar/alternatv.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "taher"],
+    "locations": ["arg"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.imgur.com/HAJxHcV.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "milia"],
+    "locations": ["arg"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.imgur.com/xFgJawa.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "jijel"],
+    "locations": ["arg"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.imgur.com/HXRpRlK.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "taher"],
+    "locations": ["arg"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.imgur.com/xd6zuuw.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "milia"],
+    "locations": ["arm"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.imgur.com/RlYJUH4.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "jijel"],
+    "locations": ["arm"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.imgur.com/uGE6lZ2.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "taher"],
+    "locations": ["nld"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.imgur.com/MKZCskA.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "milia"],
+    "locations": ["nld"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.imgur.com/6N0qITv.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "jijel"],
+    "locations": ["nld"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.imgur.com/6NyFLAm.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "taher"],
+    "locations": ["eng"]
+  },
+  {
+    "id": "1",
+    "date": "06-12-2024",
+    "name": "صيدليات ولايــــة جيجـــل",
+    "image": "https://i.imgur.com/OuogLHx.png",
+    "address": "ولايــــة جيجـــل",
+    "categories": ["all", "milia"],
+    "locations": ["eng"]
+  }
+]
