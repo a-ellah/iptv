@@ -1,6 +1,26 @@
 [
-  { "id": "open", "name": " Open" },
-  { "id": "taher", "name": "Taher" },
-  { "id": "jijel", "name": "Jijel" },
-  { "id": "milia", "name": "Milia" }
+  {
+    "id": "open",
+    "name": " Open",
+    "coor": "36.81503866535423, 5.7647399597348",
+    "map": "https://maps.app.goo.gl/6c1GbM3L5EMnyjsB8"
+  },
+  {
+    "id": "taher",
+    "name": "Taher",
+    "coor": "36.7704805137687, 5.897717962638273",
+    "map": "https://maps.app.goo.gl/o89cAmYNLH4wZ16Q6"
+  },
+  {
+    "id": "jijel",
+    "name": "Jijel",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "milia",
+    "name": "Milia",
+    "coor": "36.75268073386434, 6.266794606425286",
+    "map": "https://maps.app.goo.gl/UVuQVGJorYUE87hx9"
+  }
 ]
