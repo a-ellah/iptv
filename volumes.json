@@ -1,0 +1,2840 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2616,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "iMC9OELUNSgC",
+      "etag": "TC7Lc23Vzr0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iMC9OELUNSgC",
+      "volumeInfo": {
+        "title": "Télécommunications et science-fiction",
+        "authors": [
+          "Thomas Michaud"
+        ],
+        "publisher": "michaud",
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2953257381"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782953257380"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 654,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iMC9OELUNSgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iMC9OELUNSgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=iMC9OELUNSgC&pg=PA19&dq=Fiction&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=iMC9OELUNSgC&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/T%C3%A9l%C3%A9communications_et_science_fiction.html?hl=&id=iMC9OELUNSgC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/T%C3%A9l%C3%A9communications_et_science_fiction-sample-pdf.acsm?id=iMC9OELUNSgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iMC9OELUNSgC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eFictions\u003c/b\u003e philosophiques et science \u003cb\u003efiction\u003c/b\u003e : récréation philosophique ( 1988 ) , de Jacques Goimard dans Critique de la science - \u003cb\u003efiction\u003c/b\u003e ( 2002 ) , ou de Gilbert Hottois dans Philosophie et science - \u003cb\u003efiction\u003c/b\u003e ( 2000 ) . L&#39;approche&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jyjtRxVXow0C",
+      "etag": "/QYfS8bSrkg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jyjtRxVXow0C",
+      "volumeInfo": {
+        "title": "Library of Congress Subject Headings",
+        "authors": [
+          "Library of Congress"
+        ],
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCBK:C100181889"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 972,
+        "printType": "BOOK",
+        "categories": [
+          "Subject headings, Library of Congress"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jyjtRxVXow0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jyjtRxVXow0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jyjtRxVXow0C&pg=RA3-PA30&dq=Fiction&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jyjtRxVXow0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jyjtRxVXow0C"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=jyjtRxVXow0C&rdid=book-jyjtRxVXow0C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Library_of_Congress_Subject_Headings.epub?id=jyjtRxVXow0C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jyjtRxVXow0C&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eFiction\u003c/b\u003e under individual wars , e.g. World War , 1939-1945 -- \u003cb\u003eFiction\u003c/b\u003e War stories , American ( May Subd Geog ) UF American war stories BT American \u003cb\u003efiction\u003c/b\u003e War stories , Arabic ( May Subd Geog ) UF Arabic war stories BT Arabic \u003cb\u003efiction\u003c/b\u003e&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pEhkh_9bP9wC",
+      "etag": "1gcysGiEPKA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pEhkh_9bP9wC",
+      "volumeInfo": {
+        "title": "Library of Congress Subject Headings",
+        "authors": [
+          "Library of Congress. Cataloging Policy and Support Office"
+        ],
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015057968466"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1662,
+        "printType": "BOOK",
+        "categories": [
+          "Subject headings, Library of Congress"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.13.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pEhkh_9bP9wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pEhkh_9bP9wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=pEhkh_9bP9wC&pg=PA6235&dq=Fiction&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pEhkh_9bP9wC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pEhkh_9bP9wC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=pEhkh_9bP9wC&rdid=book-pEhkh_9bP9wC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Library_of_Congress_Subject_Headings.epub?id=pEhkh_9bP9wC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pEhkh_9bP9wC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efiction\u003c/b\u003e Short stories , Assamese ( May Subd Geog ) UF Assamese short stories BT Assamese \u003cb\u003efiction\u003c/b\u003e Short stories , Australian ( May Subd Geog ) UF Australian short stories BT Australian \u003cb\u003efiction\u003c/b\u003e Short stories , Austrian ( May Subd Geog )&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fk1jDgAAQBAJ",
+      "etag": "WkFCj/A+9ng",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fk1jDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Mestizos Come Home!",
+        "subtitle": "Making and Claiming Mexican American Identity",
+        "authors": [
+          "Robert Con Davis-Undiano"
+        ],
+        "publisher": "University of Oklahoma Press",
+        "publishedDate": "2017-03-30",
+        "description": "Uruguayan writer Eduardo Galeano has described U.S. and Latin American culture as continually hobbled by amnesia—unable, or unwilling, to remember the influence of mestizos and indigenous populations. In Mestizos Come Home! author Robert Con Davis-Undiano documents the great awakening of Mexican American and Latino culture since the 1960s that has challenged this omission in collective memory. He maps a new awareness of the United States as intrinsically connected to the broader context of the Americas. At once native and new to the American Southwest, Mexican Americans have “come home” in a profound sense: they have reasserted their right to claim that land and U.S. culture as their own. Mestizos Come Home! explores key areas of change that Mexican Americans have brought to the United States. These areas include the recognition of mestizo identity, especially its historical development across the nineteenth and twentieth centuries; the re-emergence of indigenous relationships to land; and the promotion of Mesoamerican conceptions of the human body. Clarifying and bridging critical gaps in cultural history, Davis-Undiano considers important artifacts from the past and present, connecting the casta (caste) paintings of eighteenth-century Mexico to modern-day artists including John Valadez, Alma López, and Luis A. Jiménez Jr. He also examines such community celebrations as Day of the Dead, Cinco de Mayo, and lowrider car culture as examples of mestizo influence on mainstream American culture. Woven throughout is the search for meaning and understanding of mestizo identity. A large-scale landmark account of Mexican American culture, Mestizos Come Home! shows that mestizos are essential to U.S. national culture. As an argument for social justice and a renewal of America’s democratic ideals, this book marks a historic cultural homecoming.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780806158075"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0806158077"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 337,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fk1jDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fk1jDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fk1jDgAAQBAJ&pg=PA279&dq=Fiction&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=fk1jDgAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mestizos_Come_Home.html?hl=&id=fk1jDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Mestizos_Come_Home-sample-pdf.acsm?id=fk1jDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fk1jDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... (\u003cb\u003efiction\u003c/b\u003e), Rudolfo Anaya (\u003cb\u003efiction\u003c/b\u003e, poetry, drama, and essay), Lorna Dee Cervantes (poetry), Rodolfo “Corky” Gonzales (poetry), Rolando Hinojosa (\u003cb\u003efiction\u003c/b\u003e), Tomás Rivera (\u003cb\u003efiction\u003c/b\u003e, essay, and poetry), Luis Omar Salinas (poetry), Estela&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wxIKJ1mz9asC",
+      "etag": "VY4K5UAcrTo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wxIKJ1mz9asC",
+      "volumeInfo": {
+        "title": "Teaching English 3-11",
+        "subtitle": "The Essential Guide for Teachers",
+        "authors": [
+          "Cathy Burnett",
+          "Julia Myers"
+        ],
+        "publisher": "A&C Black",
+        "publishedDate": "2004-04-01",
+        "description": "This title highlights aspects of progression and continuity in the teaching of English across the Foundation and Primary years and encourages readers to develop an understanding of key principles and the confidence to apply these appropriately to their classroom practice.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0826470068"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780826470065"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.11.7.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wxIKJ1mz9asC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wxIKJ1mz9asC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wxIKJ1mz9asC&pg=PP122&dq=Fiction&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=wxIKJ1mz9asC&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Teaching_English_3_11.html?hl=&id=wxIKJ1mz9asC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Teaching_English_3_11-sample-pdf.acsm?id=wxIKJ1mz9asC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wxIKJ1mz9asC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efiction\u003c/b\u003e and non - \u003cb\u003efiction\u003c/b\u003e texts and the differences in ways of reading such texts . The following section therefore considers the nature of non - \u003cb\u003efiction\u003c/b\u003e texts and ways in which they are read , before moving on to consider the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p6YBbKOR81sC",
+      "etag": "uXzZX//1bhY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p6YBbKOR81sC",
+      "volumeInfo": {
+        "title": "Telling Lies in Modern American Autobiography",
+        "authors": [
+          "Timothy Dow Adams"
+        ],
+        "publisher": "UNC Press Books",
+        "publishedDate": "1990-01-01",
+        "description": "This collection of twelve essays discusses the principles and practices of women's autobiographical writing in America, England, and France from the eighteenth to the twentieth centuries.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0807818887"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780807818886"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 230,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p6YBbKOR81sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p6YBbKOR81sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=p6YBbKOR81sC&pg=PA10&dq=Fiction&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=p6YBbKOR81sC&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Telling_Lies_in_Modern_American_Autobiog.html?hl=&id=p6YBbKOR81sC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Telling_Lies_in_Modern_American_Autobiog-sample-pdf.acsm?id=p6YBbKOR81sC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p6YBbKOR81sC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efiction\u003c/b\u003e in its stead , &quot; Eakin argues persuasively that \u003cb\u003efiction\u003c/b\u003e is essential to life and has its own kind of truth.21 Eakin&#39;s position on autobiographical truth is remarkably similar to Clayton Koelb&#39;s posi- tion on literary truth&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Gynn-4pUcXYC",
+      "etag": "/FENttnusYI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Gynn-4pUcXYC",
+      "volumeInfo": {
+        "title": "Essential Skills - Reading and Writing, Grade 1",
+        "authors": [
+          "Teacher Created Resources, Inc"
+        ],
+        "publisher": "Teacher Created Resources",
+        "publishedDate": "2008-12",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781420662214"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "142066221X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "categories": [
+          "Activity programs in education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Gynn-4pUcXYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Gynn-4pUcXYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Gynn-4pUcXYC&pg=PA106&dq=Fiction&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Gynn-4pUcXYC&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Essential_Skills_Reading_and_Writing_Gra.html?hl=&id=Gynn-4pUcXYC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Essential_Skills_Reading_and_Writing_Gra-sample-epub.acsm?id=Gynn-4pUcXYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Gynn-4pUcXYC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efiction\u003c/b\u003e and nonfiction, including fact and fantasy. Instructional. Preparation. Choose or prepare the following: • two unfamiliar books (one nonfiction, the other \u003cb\u003efiction\u003c/b\u003e) ... \u003cb\u003eFiction\u003c/b\u003e. vs. Nonfiction. Skill 20: \u003cb\u003eFiction\u003c/b\u003e vs Nonfiction."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8LFsPwN2AJIC",
+      "etag": "E5rbRLu3lxM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8LFsPwN2AJIC",
+      "volumeInfo": {
+        "title": "Reload",
+        "subtitle": "Rethinking Women + Cyberculture",
+        "authors": [
+          "Mary Flanagan",
+          "Austin Booth"
+        ],
+        "publisher": "MIT Press",
+        "publishedDate": "2002-05-03",
+        "description": "An anthology of feminist cyberfiction and theoretical and critical writings on gender and technoculture. Most writing on cyberculture is dominated by two almost mutually exclusive visions: the heroic image of the male outlaw hacker and the utopian myth of a gender-free cyberworld. Reload offers an alternative picture of cyberspace as a complex and contradictory place where there is oppression as well as liberation. It shows how cyberpunk's revolutionary claims conceal its ultimate conservatism on matters of class, gender, and race. The cyberfeminists writing here view cyberculture as a social experiment with an as-yet-unfulfilled potential to create new identities, relationships, and cultures. The book brings together women's cyberfiction—fiction that explores the relationship between people and virtual technologies—and feminist theoretical and critical investigations of gender and technoculture. From a variety of viewpoints, the writers consider the effects of rapid and profound technological change on culture, in particular both the revolutionary and reactionary effects of cyberculture on women's lives. They also explore the feminist implications of the cyborg, a human-machine hybrid. The writers challenge the conceptual and institutional rifts between high and low culture, which are embedded in the texts and artifacts of cyberculture.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0262561506"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780262561501"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 604,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8LFsPwN2AJIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8LFsPwN2AJIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8LFsPwN2AJIC&pg=PA377&dq=Fiction&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8LFsPwN2AJIC&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reload.html?hl=&id=8LFsPwN2AJIC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Reload-sample-pdf.acsm?id=8LFsPwN2AJIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8LFsPwN2AJIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eFiction\u003c/b\u003e , Sarah Lefanu notes that no woman received the prestigious Hugo Award for science \u003cb\u003efiction\u003c/b\u003e between 1953 ( its inception ) and 1967 , but that between 1968 and 1984 , eleven women won it . In addition , she points out that&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IqHQAAAAMAAJ",
+      "etag": "tiz2qxIAkEI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IqHQAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Pearson's Magazine",
+        "publishedDate": "1902",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000093231235"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 692,
+        "printType": "BOOK",
+        "categories": [
+          "English fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.8.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IqHQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IqHQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IqHQAAAAMAAJ&pg=PT3&dq=Fiction&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IqHQAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IqHQAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=IqHQAAAAMAAJ&rdid=book-IqHQAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Pearson_s_Magazine.epub?id=IqHQAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Pearson_s_Magazine.pdf?id=IqHQAAAAMAAJ&hl=&output=pdf&sig=ACfU3U1-c147cJmt7wAh_9K-tsJFHLZuQw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IqHQAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... ( \u003cb\u003eFiction\u003c/b\u003e ) . LASSO DUEL , A ( \u003cb\u003eFiction\u003c/b\u003e ) 649 Lesson in Democracy , A ( \u003cb\u003eFiction\u003c/b\u003e ) 427 An Eye for an Eye , and a Tooth for a Tooth Lord Salisbury . 542 ( \u003cb\u003eFiction\u003c/b\u003e ) Love Lacks no Language ( Poem ) 302 Analysing Motion Art of the Age , The&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LKD7Kg94oEwC",
+      "etag": "ju/JyZC7Sbo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LKD7Kg94oEwC",
+      "volumeInfo": {
+        "title": "Useful Fictions",
+        "subtitle": "Evolution, Anxiety, and the Origins of Literature",
+        "authors": [
+          "Michael Austin"
+        ],
+        "publisher": "U of Nebraska Press",
+        "publishedDate": "2011-01-01",
+        "description": "\"We tell ourselves stories in order to live,\" Joan Didion observed inThe White Album. Why is this? Michael Austin asks, inUseful Fictions. Why, in particular, are human beings, whose very survival depends on obtaining true information, so drawn to fictional narratives? After all, virtually every human culture reveres some form of storytelling. Might there be an evolutionary reason behind our species' need for stories? Drawing on evolutionary biology, anthropology, narrative theory, cognitive psychology, game theory, and evolutionary aesthetics, Austin develops the concept of a \"useful fiction,\" a simple narrative that serves an adaptive function unrelated to its factual accuracy. In his work we see how these useful fictions play a key role in neutralizing the overwhelming anxiety that humans can experience as their minds gather and process information. Rudimentary narratives constructed for this purpose, Austin suggests, provided a cognitive scaffold that might have become the basis for our well-documented love of fictional stories. Written in clear, jargon-free prose and employing abundant literary examplesfrom the Bible toOne Thousand and One Arabian NightsandDon QuixotetoNo ExitAustin's work offers a new way of understanding the relationship between fiction and evolutionary processesand, perhaps, the very origins of literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780803232976"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0803232977"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 193,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LKD7Kg94oEwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LKD7Kg94oEwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LKD7Kg94oEwC&pg=PR11&dq=Fiction&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=LKD7Kg94oEwC&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Useful_Fictions.html?hl=&id=LKD7Kg94oEwC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Useful_Fictions-sample-epub.acsm?id=LKD7Kg94oEwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Useful_Fictions-sample-pdf.acsm?id=LKD7Kg94oEwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LKD7Kg94oEwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efiction\u003c/b\u003e as untruth , \u003cb\u003efiction\u003c/b\u003e as conceptual abstraction , \u003cb\u003efiction\u003c/b\u003e as in ( all ) literature , and \u003cb\u003efiction\u003c/b\u003e as ( all ) narrative . ” 3 For Cohn , these are all distractions that divert our attention away from the kinds of fictional texts&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P-t5DwAAQBAJ",
+      "etag": "XmscJ1aUQ80",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P-t5DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Presented Discourse in Popular Science",
+        "subtitle": "Professional Voices in Books for Lay Audiences",
+        "authors": [
+          "Olga Pilkington"
+        ],
+        "publisher": "BRILL",
+        "publishedDate": "2018-07-03",
+        "description": "In Presented Discourse in Popular Science, Olga A. Pilkington explores the forms and functions of the voices of scientists in books written for non-professionals. This study confirms the importance of considering presentation of discourse outside of literary fiction: popular science uses presented discourse in ways uncommon for fiction yet not conventional for non-fiction either. This analysis is an acknowledgement of the social consequences of popularization. Discourse presentation of scientists reconstructs the world of the scientific community as a human space but also projects back into it an image of the scientist the public wants to see. At the same time, Pilkington’s findings strengthen the view of popularization that rejects the notion of a strict divide between professional and popular science.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789004365971"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9004365974"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 206,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P-t5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=P-t5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=P-t5DwAAQBAJ&pg=PA50&dq=Fiction&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=P-t5DwAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Presented_Discourse_in_Popular_Science.html?hl=&id=P-t5DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Presented_Discourse_in_Popular_Science-sample-pdf.acsm?id=P-t5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P-t5DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eFiction\u003c/b\u003e and Non - \u003cb\u003efiction\u003c/b\u003e The differences between \u003cb\u003efiction\u003c/b\u003e and non - \u003cb\u003efiction\u003c/b\u003e might seem obvious , and the language used is inevitably judged as one of the differences . At the same time , it is not entirely true that the language of \u003cb\u003efiction\u003c/b\u003e&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SPy5J5U8vGoC",
+      "etag": "WQ+url349Fk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SPy5J5U8vGoC",
+      "volumeInfo": {
+        "title": "Cross-Cultural Connections in Crime Fictions",
+        "authors": [
+          "V. Miller",
+          "H. Oakley"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2012-05-09",
+        "description": "A collection of ten original essays forging new interdisciplinary connections between crime fiction and film, encompassing British, Swedish, American and Canadian contexts. The authors explore representations of race, gender, sexuality and memory, and challenge traditional categorisations of academic and professional crime writing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781137016768"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1137016760"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SPy5J5U8vGoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SPy5J5U8vGoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SPy5J5U8vGoC&pg=PA9&dq=Fiction&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=SPy5J5U8vGoC&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cross_Cultural_Connections_in_Crime_Fict.html?hl=&id=SPy5J5U8vGoC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cross_Cultural_Connections_in_Crime_Fict-sample-epub.acsm?id=SPy5J5U8vGoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cross_Cultural_Connections_in_Crime_Fict-sample-pdf.acsm?id=SPy5J5U8vGoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SPy5J5U8vGoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efiction\u003c/b\u003e. This is partly because, as Ernest Mandel argues in Delightful Murder: A Social History of the Crime Story, there is a certain homology between bourgeois society and crime \u003cb\u003efiction\u003c/b\u003e. “Isn&#39;t the whole of bourgeois society one big&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "M6JhDwAAQBAJ",
+      "etag": "xHzV1LQZ6Qc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M6JhDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Fiction's Overcoat",
+        "subtitle": "Russian Literary Culture and the Question of Philosophy",
+        "authors": [
+          "Edith W. Clowes"
+        ],
+        "publisher": "Cornell University Press",
+        "publishedDate": "2018-07-05",
+        "description": "If Dostoevsky claimed that all Russian writers of his day \"came out from Gogol's 'Overcoat,'\" then Edith W. Clowes boldly expands his dramatic image to describe the emergence of Russian philosophy out from under the \"overcoat\" of Russian literature. In Fiction's Overcoat, Clowes responds to the view, commonly held by Western European and North American thinkers, that Russian culture has no philosophical tradition. If that is true, she asks, why do readers everywhere turn to the classics of Russian literature, at least in part because Russian writers so famously engage universal questions, because they are so \"philosophical\"? Her answer to this question is a lively and comprehensive volume that details the origins, submergence, and re-emergence of a rich and vital Russian philosophical tradition.During the late nineteenth and early twentieth centuries, Russian philosophy emerged in conversation with narrative fiction, radical journalism, and speculative theology, developing a distinct cultural discourse with its own claim to authority and truth. Leading Russian thinkers—Berdiaev, Losev, Rozanov, Shestov, and Solovyov—made philosophy the primary forum in which Russians debated metaphysical, aesthetic, and ethical questions as well as issues of individual and national identity. That debate was tragically truncated by the events of 1917 and the rise of the Soviet empire. Today, after seventy years of enforced silence, this particularly Russian philosophical culture has resurfaced. Fiction's Overcoat serves as a welcome guide to its complexities and nuances.Historians and cultural critics will find in Clowes's book the story of the increasing refinement and diversification of Russian cultural discourse, philosophers will find an alternative to the Western philosophical tradition, and students of literature will enjoy the opportunity to rethink the great Russian novelists—particularly Dostoevsky, Pasternak, and Platonov—as important voices in the process of shaping and sustaining a new philosophy and ensuring its survival into our own age.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501727023"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1501727028"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 318,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=M6JhDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=M6JhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=M6JhDwAAQBAJ&pg=PA4&dq=Fiction&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=M6JhDwAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fiction_s_Overcoat.html?hl=&id=M6JhDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M6JhDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... objec- tively observed , as well as intuited and revealed . Because speculative philosophy in Russia developed in close contact with literature , \u003cb\u003eFiction&#39;s\u003c/b\u003e Overcoat takes this particular relationship both as 4 INTRODUCTION."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P8zW2AH6150C",
+      "etag": "k9LK/0qSXCY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P8zW2AH6150C",
+      "volumeInfo": {
+        "title": "Science Fiction and Fantasy Literature",
+        "authors": [
+          "R. Reginald",
+          "Douglas Menville",
+          "Mary A. Burgess"
+        ],
+        "publisher": "Wildside Press LLC",
+        "publishedDate": "2010-09-01",
+        "description": "Science Fiction and Fantasy Literature, A Checklist, 1700-1974, Volume one of Two, contains an Author Index, Title Index, Series Index, Awards Index, and the Ace and Belmont Doubles Index.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780941028769"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0941028763"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 802,
+        "printType": "BOOK",
+        "categories": [
+          "Reference"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P8zW2AH6150C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=P8zW2AH6150C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=P8zW2AH6150C&pg=PA684&dq=Fiction&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=P8zW2AH6150C&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Science_Fiction_and_Fantasy_Literature.html?hl=&id=P8zW2AH6150C"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Science_Fiction_and_Fantasy_Literature-sample-pdf.acsm?id=P8zW2AH6150C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P8zW2AH6150C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efiction\u003c/b\u003e reader . + Kingsbury , R. H. Science \u003cb\u003efiction\u003c/b\u003e reader&#39;s guide . + Allen , L. David Science \u003cb\u003efiction\u003c/b\u003e showcase . + Kornbluth , Mary Science \u003cb\u003efiction\u003c/b\u003e special ( 8 ) . + none Science \u003cb\u003efiction\u003c/b\u003e special ( 11 ) . Science \u003cb\u003efiction\u003c/b\u003e special&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MCD3DwAAQBAJ",
+      "etag": "dOUhyYVUhIs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MCD3DwAAQBAJ",
+      "volumeInfo": {
+        "title": "On reste amis ?",
+        "authors": [
+          "Abby Jimenez"
+        ],
+        "publisher": "J'ai Lu",
+        "publishedDate": "2020-09-16T00:00:00+02:00",
+        "description": "Josh débarque en Californie pour s’installer chez un couple d’amis. Sur le trajet, bim, accident de voiture ! Cinq minutes plus tard, le voilà en pleine altercation avec cette Kristen sur qui il a foncé. Cerise sur le gâteau, la jeune fille se trouve être intimement liée au couple chez qui Josh va habiter. Grâce à – ou à cause de – ces amis communs, Josh et Kristen se voient régulièrement et se rapprochent peu à peu. Mais Josh, à son plus grand désespoir, est « friendzon頻 par Kristen. Pas par malice ni par fidélité envers son petit ami actuel, mais parce qu’elle va subir une intervention chirurgicale qui la rendra stérile et l’empêche d’envisager toute relation avec lui...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782290233658"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "229023365X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 346,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MCD3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MCD3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=MCD3DwAAQBAJ&dq=Fiction&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=MCD3DwAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/On_reste_amis.html?hl=&id=MCD3DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MCD3DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Josh débarque en Californie pour s’installer chez un couple d’amis."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FPdRAwAAQBAJ",
+      "etag": "z6jj/YmWoEM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FPdRAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Encyclopedia of the Novel",
+        "authors": [
+          "Paul Schellinger"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2014-04-08",
+        "description": "The Encyclopedia of the Novel is the first reference book that focuses on the development of the novel throughout the world. Entries on individual writers assess the place of that writer within the development of the novel form, explaining why and in exactly what ways that writer is importnant. Similarly, an entry on an individual novel discusses the importance of that novel not only form, analyzing the particular innovations that novel has introduced and the ways in which it has influenced the subsequent course of the genre. A wide range of topic entries explore the history, criticism, theory, production, dissemination and reception of the novel. A very important component of the Encyclopedia of the Novel is its long surveys of development of the novel in various regions of the world.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781135918262"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1135918260"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 838,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FPdRAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FPdRAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=FPdRAwAAQBAJ&pg=PA1194&dq=Fiction&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=FPdRAwAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Encyclopedia_of_the_Novel.html?hl=&id=FPdRAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Encyclopedia_of_the_Novel-sample-pdf.acsm?id=FPdRAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FPdRAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efiction\u003c/b\u003e tropes because , as so many advertisements for new technologies assert , “ It&#39;s not just science \u003cb\u003efiction\u003c/b\u003e anymore . &quot; In Japan , Abe Kōbō ( Daiyon kan- pyoki [ 1959 ; Inter Ice Age 4 ] ) , a great science - \u003cb\u003efiction\u003c/b\u003e writer , is&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cWYEAAAAMBAJ",
+      "etag": "9qq7N5zjPic",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cWYEAAAAMBAJ",
+      "volumeInfo": {
+        "title": "Boys' Life",
+        "publishedDate": "1985-04",
+        "description": "Boys' Life is the official youth magazine for the Boy Scouts of America. Published since 1911, it contains a proven mix of news, nature, sports, history, fiction, science, comics, and Scouting.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 64,
+        "printType": "MAGAZINE",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cWYEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cWYEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cWYEAAAAMBAJ&pg=PA15&dq=Fiction&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=cWYEAAAAMBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Boys_Life.html?hl=&id=cWYEAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cWYEAAAAMBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efiction\u003c/b\u003e or fantasy adventures. Dragon Fall&#39;s plot involves a 17-year-old toy inventor whose miniature mechanical dragons suddenly come to life, gremlin-like, and try to destroy their creator. The book&#39;s final scene is a violent showdown&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "phhhHT64kIMC",
+      "etag": "QfwIGwc4VBU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/phhhHT64kIMC",
+      "volumeInfo": {
+        "title": "International Who's Who of Authors and Writers 2004",
+        "authors": [
+          "Europa Publications"
+        ],
+        "publisher": "Psychology Press",
+        "publishedDate": "2003",
+        "description": "Accurate and reliable biographical information essential to anyone interested in the world of literature TheInternational Who's Who of Authors and Writersoffers invaluable information on the personalities and organizations of the literary world, including many up-and-coming writers as well as established names. With over 8,000 entries, this updated edition features: * Concise biographical information on novelists, authors, playwrights, columnists, journalists, editors, and critics * Biographical details of established writers as well as those who have recently risen to prominence * Entries detailing career, works published, literary awards and prizes, membership, and contact addresses where available * An extensive listing of major international literary awards and prizes, and winners of those prizes * A directory of major literary organizations and literary agents * A listing of members of the American Academy of Arts and Letters",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1857431790"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781857431797"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 644,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=phhhHT64kIMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=phhhHT64kIMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=phhhHT64kIMC&pg=PA622&dq=Fiction&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=phhhHT64kIMC&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/International_Who_s_Who_of_Authors_and_W.html?hl=&id=phhhHT64kIMC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/International_Who_s_Who_of_Authors_and_W-sample-pdf.acsm?id=phhhHT64kIMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=phhhHT64kIMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efiction\u003c/b\u003e and non - \u003cb\u003efiction\u003c/b\u003e . Jonathan Clowes Ltd : 10 Iron Bridge House , Bridge Approach , London NW1 8BD . \u003cb\u003eFiction\u003c/b\u003e and non - \u003cb\u003efiction\u003c/b\u003e , scripts . Elspeth Cochrane Agency : 11-13 Orlando Rd , London SW4 OLE . Authors handled for theatre&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Qg-03C7_ln0C",
+      "etag": "ZKmq4ONPQ2M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Qg-03C7_ln0C",
+      "volumeInfo": {
+        "title": "Encyclopaedia of Religion and Ethics: Fiction- Hyksos",
+        "authors": [
+          "James Hastings",
+          "John Alexander Selbie"
+        ],
+        "publishedDate": "1914",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:U183044664896"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 910,
+        "printType": "BOOK",
+        "categories": [
+          "Ethics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Qg-03C7_ln0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Qg-03C7_ln0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Qg-03C7_ln0C&pg=PA2&dq=Fiction&hl=&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Qg-03C7_ln0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Qg-03C7_ln0C"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Qg-03C7_ln0C&rdid=book-Qg-03C7_ln0C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Encyclopaedia_of_Religion_and_Ethics_Fic.epub?id=Qg-03C7_ln0C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Qg-03C7_ln0C&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efictions\u003c/b\u003e were to him very real and entirely possible . Thus , then , amusement and recreation , if not the prime factors , soon came to be potent agencies in fostering the growth of \u003cb\u003efiction\u003c/b\u003e ; nor is there any reason why amusement and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xbxIAQAAIAAJ",
+      "etag": "3UpGhjs/rww",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xbxIAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Annual Magazine Subject-index",
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B5177094"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 652,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xbxIAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xbxIAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xbxIAQAAIAAJ&pg=RA1-PA13&dq=Fiction&hl=&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xbxIAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xbxIAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=xbxIAQAAIAAJ&rdid=book-xbxIAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Annual_Magazine_Subject_index.epub?id=xbxIAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Annual_Magazine_Subject_index.pdf?id=xbxIAQAAIAAJ&hl=&output=pdf&sig=ACfU3U37fN-lR9aBP33ZQKX0mSLNLSm-iw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xbxIAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eFiction\u003c/b\u003e . Dreiser , Theodore . Sister Carrie ( novel ) . New York and London , Harper &amp; brothers , 1912. 557 р . 12-24814 \u003cb\u003eFiction\u003c/b\u003e . Harraden , Beatrice . Out of the wreck I rise .... London , New York ( etc. ) T. Nelson and sons ( 1912 )&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GZm9AAAAIAAJ",
+      "etag": "bwQOAP+bnAg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GZm9AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Catalogue of the Oakland Free Public Library",
+        "authors": [
+          "Oakland Free Library"
+        ],
+        "publishedDate": "1885",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4163699"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Library catalogs"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GZm9AAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GZm9AAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GZm9AAAAIAAJ&pg=PA119&dq=Fiction&hl=&cd=21&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GZm9AAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GZm9AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=GZm9AAAAIAAJ&rdid=book-GZm9AAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Catalogue_of_the_Oakland_Free_Public_Lib.epub?id=GZm9AAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Catalogue_of_the_Oakland_Free_Public_Lib.pdf?id=GZm9AAAAIAAJ&hl=&output=pdf&sig=ACfU3U0cEP_H8SyYsVpXWyzP68zaLebPtQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GZm9AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eFiction\u003c/b\u003e our animal friends in Natal ... 38.835 Pilot , The . Cooper 66 \u003cb\u003eFiction\u003c/b\u003e Parton , Mrs. S. P. ( Fanny Fern . ) Playday Pindar , S. C. The Wentworths . 38.711 book . 38.836 Pioneers , The . Cooper ........... ..See \u003cb\u003eFiction\u003c/b\u003e&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6cd0DwAAQBAJ",
+      "etag": "ojtW0GT44HQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6cd0DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Inconnu à cette adresse",
+        "authors": [
+          "Kathrine Kressmann Taylor"
+        ],
+        "publisher": "Autrement",
+        "publishedDate": "2018-11-14T00:00:00+01:00",
+        "description": "Ils sont tous deux allemands. L'un est juif, l'autre non, et leur amitié semble indéfectible. Ils s'expatrient pour fonder ensemble une galerie d'art en Californie, mais, en 1932, Martin rentre en Allemagne. Au fil de leurs échanges épistolaires, Max devient le témoin impuissant d'une contamination morale sournoise et terrifiante : Martin semble peu à peu gagné par l'idéologie du IIIe Reich. La tragédie ne fait que commencer...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782746751712"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2746751712"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6cd0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6cd0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=6cd0DwAAQBAJ&dq=Fiction&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=6cd0DwAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Inconnu_%C3%A0_cette_adresse.html?hl=&id=6cd0DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6cd0DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ils sont tous deux allemands."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8L_lEAAAQBAJ",
+      "etag": "CS3KaQGTrCc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8L_lEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Bite of the Kaba Lagoon: A Branches Book (Kwame's Magic Quest #3)",
+        "authors": [
+          "Bernard Mensah"
+        ],
+        "publisher": "Scholastic Inc.",
+        "publishedDate": "2025-02-04",
+        "description": "Kwame needs to help save the world's source of magic, in the third installment of this action-packed early chapter book series perfect for fans of Dragon Masters! Pick a book. Grow a Reader! This series is part of Scholastic's early chapter book line, Branches, aimed at newly independent readers. With easy-to-read text, high-interest content, fast-paced plots, and illustrations on every page, these books will boost reading confidence and stamina. Branches books help readers grow! The Nkonyaa Tree is losing its magic, which means everyone will soon lose their magic, too! Principal Wari and Kwame's friend, Fifi, are being blamed for it and the Grand Elder wants to banish them to the Dark Void. But they are not entirely to blame! Kwame and Esi go to the dangerous Kaba Lagoon for a magical ingredient that's needed for a spell that could heal the tree. With the help of his friends, will Kwame be able to cure the tree before Principal Wari and Fifi are sent away? With engaging black-and-white artwork on every page, kids won't be able to put down this fully illustrated, magical, action-packed adventure!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781338843361"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1338843362"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8L_lEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8L_lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8L_lEAAAQBAJ&pg=PP6&dq=Fiction&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8L_lEAAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bite_of_the_Kaba_Lagoon_A_Branches_Book.html?hl=&id=8L_lEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Bite_of_the_Kaba_Lagoon_A_Branches_Book-sample-epub.acsm?id=8L_lEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Bite_of_the_Kaba_Lagoon_A_Branches_Book-sample-pdf.acsm?id=8L_lEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8L_lEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efiction\u003c/b\u003e . Names , characters , places , and incidents are either the product of the author&#39;s imagination or are used ... \u003cb\u003efiction\u003c/b\u003e . | Gourds - Juvenile \u003cb\u003efiction\u003c/b\u003e . | Good and evil - Juvenile \u003cb\u003efiction\u003c/b\u003e . | Quests ( Expeditions )&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zzVNAAAAYAAJ",
+      "etag": "Z2yQ4J0mQ4U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zzVNAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Documents of the ... Legislature of the State of New Jersey",
+        "authors": [
+          "New Jersey. Legislature"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433010028524"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1592,
+        "printType": "BOOK",
+        "categories": [
+          "New Jersey"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zzVNAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zzVNAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zzVNAAAAYAAJ&pg=RA2-PA232&dq=Fiction&hl=&cd=24&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zzVNAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zzVNAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=zzVNAAAAYAAJ&rdid=book-zzVNAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Documents_of_the_Legislature_of_the_Stat.epub?id=zzVNAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Documents_of_the_Legislature_of_the_Stat.pdf?id=zzVNAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0MxiPCBgmz_3ZNAMCRAAluATndnA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zzVNAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efiction\u003c/b\u003e ...... 33 &quot; 34 &quot; 66 second - class \u003cb\u003efiction\u003c/b\u003e .... 29 &quot; 29 6 . “ 66 ،، worthless \u003cb\u003efiction\u003c/b\u003e .... 16 &quot; 16 66 &quot; 99 100 From the eleventh grade 40 pupils reported : Number reading essays .. 1 or 2 per cent 66 &quot; “ 66 history or&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "--wTAAAAIAAJ",
+      "etag": "9/+bTPVVidY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/--wTAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Annual Report of the Board of Education and the Superintendent of Public Instruction of New Jersey, with Accompanying Documents, for the School Year Ending ...",
+        "authors": [
+          "New Jersey. State Board of Education"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433075983563"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 640,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.10.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=--wTAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=--wTAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=--wTAAAAIAAJ&pg=PA232&dq=Fiction&hl=&cd=25&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=--wTAAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=--wTAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=--wTAAAAIAAJ&rdid=book---wTAAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Annual_Report_of_the_Board_of_Education.epub?id=--wTAAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Annual_Report_of_the_Board_of_Education.pdf?id=--wTAAAAIAAJ&hl=&output=pdf&sig=ACfU3U3HqK40m7-qvCtFZBJKfjB4Dc0iZg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=--wTAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efiction\u003c/b\u003e .... second - class \u003cb\u003efiction\u003c/b\u003e .. worthless \u003cb\u003efiction\u003c/b\u003e ...... 33 10 &quot; 10 66 ( 6 4 66 4 66 ( ( * 34 29 66 29 6 : 16 &quot; 16 ( 6 68 99 100 From the eleventh grade 40 pupils reported : Number reading essays .. history or biography&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Rek4AQAAMAAJ",
+      "etag": "xjcl76qqf+A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Rek4AQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Bohemian",
+        "publishedDate": "1908",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433107881041"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 896,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Rek4AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Rek4AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Rek4AQAAMAAJ&pg=PA432&dq=Fiction&hl=&cd=26&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Rek4AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Rek4AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Rek4AQAAMAAJ&rdid=book-Rek4AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Bohemian.epub?id=Rek4AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Rek4AQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efiction\u003c/b\u003e . We have brought together into one &quot; library &quot; a collection of stories which are the representative work of ... \u003cb\u003eFiction\u003c/b\u003e erica merican Aerican American Annican \u003cb\u003eFiction Fiction Fiction Fiction Fiction Fiction\u003c/b\u003e brary Library&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PaVaAAAAMAAJ",
+      "etag": "NZPgoMuQQv4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PaVaAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Hugo Gernsback, Father of Modern Science Fiction",
+        "subtitle": "With Essays on Frank Herbert and Bram Stoker",
+        "authors": [
+          "Mark Siegel"
+        ],
+        "publisher": "Millefleurs",
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015012425933"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PaVaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PaVaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PaVaAAAAMAAJ&q=Fiction&dq=Fiction&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PaVaAAAAMAAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hugo_Gernsback_Father_of_Modern_Science.html?hl=&id=PaVaAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PaVaAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efiction\u003c/b\u003e has remained the same to this day : It must mirror the present or the future in acceptable and plausible scientific terms . Most serious students of science \u003cb\u003efiction\u003c/b\u003e recognize at least part of Hugo Gernsback&#39;s contributions to&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7sExAQAAMAAJ",
+      "etag": "pKZfQ0b/b4E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7sExAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Papers and Proceedings",
+        "authors": [
+          "American Library Association. Conference"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015036861758"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1112,
+        "printType": "BOOK",
+        "categories": [
+          "Library science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7sExAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7sExAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7sExAQAAMAAJ&pg=PA33&dq=Fiction&hl=&cd=28&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7sExAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7sExAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=7sExAQAAMAAJ&rdid=book-7sExAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Papers_and_Proceedings.epub?id=7sExAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Papers_and_Proceedings.pdf?id=7sExAQAAMAAJ&hl=&output=pdf&sig=ACfU3U0kIhB98COiKMkwPF5C1AXxUdcOcg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7sExAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "American Library Association. Conference. SOME PROBLEMS CONCERNING PROSE \u003cb\u003eFICTION\u003c/b\u003e . BY BERNARD C. STEINER , Librarian Enoch Pratt Free Library , Baltimore , Md . THE PLACE OF \u003cb\u003eFICTION\u003c/b\u003e IN THE FREE PUBLIC LIBRARY . selection of current \u003cb\u003efiction\u003c/b\u003e&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FL3fprpzpdkC",
+      "etag": "ucsg7/CPKRs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FL3fprpzpdkC",
+      "volumeInfo": {
+        "title": "The Bookman",
+        "subtitle": "A Review of Books and Life ...",
+        "publishedDate": "1914",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015030008901"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 780,
+        "printType": "BOOK",
+        "categories": [
+          "Literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.17.20.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FL3fprpzpdkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FL3fprpzpdkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=FL3fprpzpdkC&pg=PA209&dq=Fiction&hl=&cd=29&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FL3fprpzpdkC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FL3fprpzpdkC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=FL3fprpzpdkC&rdid=book-FL3fprpzpdkC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Bookman.epub?id=FL3fprpzpdkC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/The_Bookman.pdf?id=FL3fprpzpdkC&hl=&output=pdf&sig=ACfU3U32pUt32Ui22ejyZ1e_PFuaxaYvYw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FL3fprpzpdkC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eFICTION\u003c/b\u003e 1. Laddie . Stratton - Porter . Page . ) $ 1.35 . ( Doubleday , 2. Virginia . Glasgow . ( Doubleday , Page . ) $ 1.35 . 3. V. V.&#39;s Eyes . Harrison . ( Houghton Mif- Alin . ) $ 1.35 . 4 . BOSTON , MASS . \u003cb\u003eFICTION\u003c/b\u003e 1. The Inside of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "buo5AQAAMAAJ",
+      "etag": "Wu7cgt76CeM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/buo5AQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Central Literary Magazine",
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433104843549"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 370,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=buo5AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=buo5AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=buo5AQAAMAAJ&pg=PA278&dq=Fiction&hl=&cd=30&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=buo5AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=buo5AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=buo5AQAAMAAJ&rdid=book-buo5AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Central_Literary_Magazine.epub?id=buo5AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=buo5AQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efiction\u003c/b\u003e reader and gets through three novels a week . lot , as the friendly waiter said , but it is often done . In four weeks he has had twelve novels . Now what is the result . \u003cb\u003eFiction\u003c/b\u003e Issues , 12 ; Number of Readers , 1 . It seems a&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CrzrhsKtC2MC",
+      "etag": "hDrDCNSCQ3I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CrzrhsKtC2MC",
+      "volumeInfo": {
+        "title": "Kimball's Dairy Farmer",
+        "publishedDate": "1907",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UFL:31262094872487"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 782,
+        "printType": "BOOK",
+        "categories": [
+          "Cattle"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CrzrhsKtC2MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CrzrhsKtC2MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=CrzrhsKtC2MC&pg=RA21-PA23&dq=Fiction&hl=&cd=31&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=CrzrhsKtC2MC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CrzrhsKtC2MC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=CrzrhsKtC2MC&rdid=book-CrzrhsKtC2MC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Kimball_s_Dairy_Farmer.epub?id=CrzrhsKtC2MC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CrzrhsKtC2MC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eFiction\u003c/b\u003e , &quot; and it consists of 10 volumes , richly bound ; 2,000 pages of text , printed on excellent paper ; each ... \u003cb\u003eFiction Fiction Fiction\u003c/b\u003e off of of English English English \u003cb\u003eFiction Fiction Fiction\u003c/b\u003e of of of of English English&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C0YFAAAAQAAJ",
+      "etag": "ljDXcAA4KR4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C0YFAAAAQAAJ",
+      "volumeInfo": {
+        "title": "Annual Report of the Trustees of the Public Library of the Cty of Boston",
+        "authors": [
+          "Trustees of the Public Library of the City of Boston"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:555030824"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "categories": [
+          "Libraries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.13.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C0YFAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C0YFAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=C0YFAAAAQAAJ&pg=RA1-PA12&dq=Fiction&hl=&cd=32&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=C0YFAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=C0YFAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=C0YFAAAAQAAJ&rdid=book-C0YFAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Annual_Report_of_the_Trustees_of_the_Pub.epub?id=C0YFAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Annual_Report_of_the_Trustees_of_the_Pub.pdf?id=C0YFAAAAQAAJ&hl=&output=pdf&sig=ACfU3U2NkvUqhArA2hifZ74sEYDBO--ZUw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C0YFAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eFICTION\u003c/b\u003e , ITS CIRCULATION AND COST . It is well known that the larger part of the circulation of the Lower Hall and branches is of works of \u003cb\u003efiction\u003c/b\u003e . The figures are instructive . In the year ending April 30 , 1884 , there were 159,349&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fE3RowavhfgC",
+      "etag": "KA5vU1fV/70",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fE3RowavhfgC",
+      "volumeInfo": {
+        "title": "Les enseignements de la fiction",
+        "authors": [
+          "Michel Braud"
+        ],
+        "publisher": "Presses Univ de Bordeaux",
+        "publishedDate": "2006",
+        "description": "Etudes des pouvoirs et des enjeux de la fiction : à quoi sert-elle, quelle expérience nouvelle propose-t-elle au lecteur, comment l'enseigner? Parmi les contributions : Fiction et principe de plaisir, l'exemple de Mérimée (A. Fonyi) ; Apprendre son temps : la fiction comme activité de connaissance (A. Péraud) ; Fictions dramatiques et postures du lecteur (A. Petitjean).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2867814189"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782867814181"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 236,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fE3RowavhfgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fE3RowavhfgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=fE3RowavhfgC&printsec=frontcover&dq=Fiction&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=fE3RowavhfgC&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Les_enseignements_de_la_fiction.html?hl=&id=fE3RowavhfgC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Les_enseignements_de_la_fiction-sample-pdf.acsm?id=fE3RowavhfgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fE3RowavhfgC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Etudes des pouvoirs et des enjeux de la fiction : à quoi sert-elle, quelle expérience nouvelle propose-t-elle au lecteur, comment l&#39;enseigner?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mBxIpphiorUC",
+      "etag": "99ZD6ludZSw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mBxIpphiorUC",
+      "volumeInfo": {
+        "title": "Catalogue of books in the lending library. 2nd 10,000",
+        "authors": [
+          "Edinburgh publ. libr"
+        ],
+        "publishedDate": "1891",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:601760818"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 562,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mBxIpphiorUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mBxIpphiorUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=mBxIpphiorUC&pg=PA177&dq=Fiction&hl=&cd=34&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mBxIpphiorUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mBxIpphiorUC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=mBxIpphiorUC&rdid=book-mBxIpphiorUC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Catalogue_of_books_in_the_lending_librar.epub?id=mBxIpphiorUC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mBxIpphiorUC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Edinburgh publ. libr. FICHTE - \u003cb\u003eFICTION\u003c/b\u003e . \u003cb\u003eFICTION\u003c/b\u003e . \u003cb\u003eFICTION\u003c/b\u003e . \u003cb\u003eFICTION\u003c/b\u003e . \u003cb\u003eFICTION\u003c/b\u003e . 18294 Confederate. 177 Fichte ( J. G. ) Works- \u003cb\u003eFICTION\u003c/b\u003e- Characteristics of the Present Age . Trans . by Smith 34724-5 Alice&#39;s Adventures under Ground&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8oJDDwAAQBAJ",
+      "etag": "HXnyl7/RGt8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8oJDDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Tessa Tiger's Temper Tantrums",
+        "subtitle": "Read Along or Enhanced eBook",
+        "authors": [
+          "Barbara deRubertis"
+        ],
+        "publisher": "Triangle Interactive, Inc. ",
+        "publishedDate": "2017-12-13",
+        "description": "Read Along or Enhanced eBook: Tessa Tiger likes to play sports—but NOT when she loses. She stomps and storms until her friends don’t want to play with her anymore. Can Tessa change her attitude and make T-ball fun again—for everyone?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781684440627"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1684440629"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8oJDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8oJDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8oJDDwAAQBAJ&pg=PA2&dq=Fiction&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8oJDDwAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tessa_Tiger_s_Temper_Tantrums.html?hl=&id=8oJDDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Tessa_Tiger_s_Temper_Tantrums-sample-epub.acsm?id=8oJDDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Tessa_Tiger_s_Temper_Tantrums-sample-pdf.acsm?id=8oJDDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8oJDDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eFiction\u003c/b\u003e.Behavior—\u003cb\u003eFiction\u003c/b\u003e.Behavior—\u003cb\u003eFiction\u003c/b\u003e.Behavior—\u003cb\u003eFiction\u003c/b\u003e. Behavior—\u003cb\u003eFiction\u003c/b\u003e. Behavior—\u003cb\u003eFiction\u003c/b\u003e. Behavior—\u003cb\u003eFiction\u003c/b\u003e. I.I.I.I. (e-book)— 3.3.3.3. ISBN-10:TTTTiger—\u003cb\u003eFiction\u003c/b\u003e.iger—\u003cb\u003eFiction\u003c/b\u003e.iger—\u003cb\u003eFiction\u003c/b\u003e.iger—\u003cb\u003eFiction\u003c/b\u003e. 1-68444-062-9 4.4.4.4&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PqCy2rymKzkC",
+      "etag": "bb3ABYQWHK0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PqCy2rymKzkC",
+      "volumeInfo": {
+        "title": "Substitutes for the Saloon",
+        "authors": [
+          "Raymond Calkins",
+          "Francis Greenwood Peabody",
+          "Elgin Ralston Lovell Gould",
+          "William Milligan Sloane"
+        ],
+        "publishedDate": "1901",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044037749363"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+          "Alcoholism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PqCy2rymKzkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PqCy2rymKzkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PqCy2rymKzkC&pg=PA373&dq=Fiction&hl=&cd=36&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PqCy2rymKzkC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PqCy2rymKzkC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=PqCy2rymKzkC&rdid=book-PqCy2rymKzkC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Substitutes_for_the_Saloon.epub?id=PqCy2rymKzkC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Substitutes_for_the_Saloon.pdf?id=PqCy2rymKzkC&hl=&output=pdf&sig=ACfU3U0thfDWOwyPJSUqVFS22srlZ79gtg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PqCy2rymKzkC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eFiction\u003c/b\u003e and text - juvenile Due to warm books . American born \u003cb\u003eFiction\u003c/b\u003e , and young text - books . people . weather or removal . German .. \u003cb\u003eFiction\u003c/b\u003e and his- Children Due to removal 66 66 66 66 616 5th St .... tory . in maj&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KIxJAAAAYAAJ",
+      "etag": "OCRofnc7fzY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KIxJAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Catalogue of Books by Catholic Writers in the St. Louis Public Library",
+        "subtitle": "Including Works in English and in Foreign Languages",
+        "authors": [
+          "St. Louis Public Library"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "COLUMBIA:CU56002858"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "categories": [
+          "Catholic literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KIxJAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KIxJAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KIxJAAAAYAAJ&pg=PA3&dq=Fiction&hl=&cd=37&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KIxJAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KIxJAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=KIxJAAAAYAAJ&rdid=book-KIxJAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Catalogue_of_Books_by_Catholic_Writers_i.epub?id=KIxJAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KIxJAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efiction\u003c/b\u003e .. Science 17 \u003cb\u003eFiction\u003c/b\u003e Useful arts 18 Juvenile Philology 18 German- Annotated texts for reading in for- Other than \u003cb\u003efiction\u003c/b\u003e .. eign languages 19 \u003cb\u003eFiction\u003c/b\u003e Art and music . 19 Juvenile Poetry 21 Spanish- Drama 23 Other than \u003cb\u003efiction\u003c/b\u003e&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WMDajfrpOHoC",
+      "etag": "uPAyOZeSRF8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WMDajfrpOHoC",
+      "volumeInfo": {
+        "title": "Illinois Libraries",
+        "publishedDate": "1919",
+        "description": "Includes proceedings of the Illinois Library Association.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000100071582"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "Libraries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WMDajfrpOHoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WMDajfrpOHoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WMDajfrpOHoC&pg=PA3&dq=Fiction&hl=&cd=38&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WMDajfrpOHoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WMDajfrpOHoC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=WMDajfrpOHoC&rdid=book-WMDajfrpOHoC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Illinois_Libraries.epub?id=WMDajfrpOHoC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WMDajfrpOHoC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efiction\u003c/b\u003e and non - \u003cb\u003efiction\u003c/b\u003e . A good selection of fic- tion has been made for the library in Paris and one title of each book of non - \u003cb\u003efiction\u003c/b\u003e , as it comes in , is also kept . a In the warehouse the non - \u003cb\u003efiction\u003c/b\u003e is arranged&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "14IsAAAAYAAJ",
+      "etag": "m0qtbmk0pBw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/14IsAAAAYAAJ",
+      "volumeInfo": {
+        "title": "A Catalogue of the Bibliographies of Special Subjects in the Library",
+        "subtitle": "Together with an Index to Notes Upon Books and Reading to be Found in Library Catalogues, in Periodical and Other Publications",
+        "authors": [
+          "Boston Public Library"
+        ],
+        "publishedDate": "1890",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HNKL1N"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=14IsAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=14IsAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=14IsAAAAYAAJ&pg=PA21&dq=Fiction&hl=&cd=39&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=14IsAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=14IsAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=14IsAAAAYAAJ&rdid=book-14IsAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/A_Catalogue_of_the_Bibliographies_of_Spe.epub?id=14IsAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/A_Catalogue_of_the_Bibliographies_of_Spe.pdf?id=14IsAAAAYAAJ&hl=&output=pdf&sig=ACfU3U35XIgUjpsoeyVnOS_FBUl2f9XP3g&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=14IsAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eFICTION\u003c/b\u003e , continued . Dunlop , J. C. History of prose \u003cb\u003efiction\u003c/b\u003e . New ed . By Henry Wilson . London , 1888. 2v .. 2127-37 List of books on \u003cb\u003efiction\u003c/b\u003e , pp . ix - xv . \u003cb\u003eFiction\u003c/b\u003e in public libraries . Various essays . ( Libr . j . , 1879 , iv&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ue1TAAAAYAAJ",
+      "etag": "vAIH6iq38I8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ue1TAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Encyclopaedia Britannica",
+        "subtitle": "A Dictionary of Arts, Sciences, and General Literature",
+        "publishedDate": "1896",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433000989131"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 976,
+        "printType": "BOOK",
+        "categories": [
+          "Encyclopedias and dictionaries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ue1TAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ue1TAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ue1TAAAAYAAJ&pg=PA140&dq=Fiction&hl=&cd=40&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ue1TAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ue1TAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ue1TAAAAYAAJ&rdid=book-ue1TAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Encyclopaedia_Britannica.epub?id=ue1TAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/The_Encyclopaedia_Britannica.pdf?id=ue1TAAAAYAAJ&hl=&output=pdf&sig=ACfU3U13haHBhMkjvaCNP8mqgtgkYpLayQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ue1TAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003efictions\u003c/b\u003e . Sometimes they are merely the condensed expression of a rule of law , —e.g . , the \u003cb\u003efiction\u003c/b\u003e of English law that husband and wife are one person , and the \u003cb\u003efiction\u003c/b\u003e of Roman law that the wife is the daughter of the husband&nbsp;..."
+      }
+    }
+  ]
+}

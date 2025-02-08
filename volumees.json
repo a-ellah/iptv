@@ -1,0 +1,2875 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 874,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "HNhCpMNmu58C",
+      "etag": "ZCJyheViBrY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HNhCpMNmu58C",
+      "volumeInfo": {
+        "title": "Anime and Manga",
+        "publisher": "PediaPress",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1563,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HNhCpMNmu58C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HNhCpMNmu58C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=HNhCpMNmu58C&pg=PA1165&dq=amine+manga&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=HNhCpMNmu58C&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anime_and_Manga.html?hl=&id=HNhCpMNmu58C"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Anime_and_Manga-sample-pdf.acsm?id=HNhCpMNmu58C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HNhCpMNmu58C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eAnime\u003c/b\u003e , \u003cb\u003eManga\u003c/b\u003e , and the Fan Arts , 1 : 183-186 . Masanao , Amano 2004. Manga Design . Koln , Germany : Taschen GMBH . pp . 526-529 . ISBN 3822825913 . 103 Paradise Kiss : http://www.tokyopop.com/product/1044 Accessed 2007-09-26 . 104&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1QwSEQAAQBAJ",
+      "etag": "nQHTyxHKGt8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1QwSEQAAQBAJ",
+      "volumeInfo": {
+        "title": "De l’Anime à Yumi Kawaii",
+        "subtitle": "Un regard dans les coulisses de la culture pop japonaise",
+        "authors": [
+          "Hermann Candahashi"
+        ],
+        "publisher": "Hermann Candahashi",
+        "publishedDate": "101-01-01",
+        "description": "Plongez avec moi dans le monde coloré et diversifié de la culture pop japonaise, qui inspire des millions de personnes dans le monde. Avec mon dernier livre \"De l'anime à Yumi Kawaii - Un regard dans les coulisses de la culture pop japonaise\", vous aurez un aperçu approfondi des tendances de la mode uniques et de la musique contagieuse de la J-Pop. Ce livre vous offre un aperçu complet de la diversité et de l'influence de la culture pop japonaise sur le monde occidental. Du manga et de l'anime à la J-pop et au cosplay en passant par les adaptations cinématographiques et littéraires, ce livre révèle les profondes influences et l'enthousiasme mondial pour tout ce qui est japonais. Découvrez la magie de l'anime et du manga, apprenez les secrets du cosplay et de la J-pop. Mais découvrez aussi la face cachée de ce monde fascinant d’imagination et d’innovation. Comprenez comment l'esthétique japonaise influence les tendances mondiales. Ce livre est un incontournable pour les amateurs de culture pop japonaise, les voyageurs, les étudiants et toute personne curieuse des tendances créatives et des trésors culturels du Japon. Rejoignez-moi pour une excursion passionnante au pays du soleil levant. Que vous soyez un otaku invétéré, un cosplayer passionné ou simplement à la recherche de nouvelles découvertes culturelles, ce livre est votre compagnon ultime. Obtenez des informations exclusives, des informations générales passionnantes et découvrez comment la culture pop japonaise a conquis le monde. Découvrez l'âme du Japon moderne et sa culture pop ! \"De l'Anime à Yumi Kawaii - Un regard dans les coulisses de la culture pop japonaise\" offre aux personnes intéressées un aperçu approfondi du monde fascinant du manga et de l'anime, de la J-Pop et de leurs origines dans les formes d'art traditionnelles. Plongez dans les mondes colorés du Studio Ghibli. Suivez-moi dans un monde plein de couleurs, de créativité et d'unicité. Visitez les éblouissants centres de cosplay et les maid cafés de Tokyo, regardez dans les coulisses de Naruto et Dragon Ball et explorez leur fascination diversifiée ainsi que leur impact sur la société japonaise. Avec des idées captivantes, ce livre vous emmène dans une excursion culturelle à travers le Japon moderne et sa culture pop éblouissante. Pour les aventuriers, les artistes, les amoureux et tous ceux qui souhaitent découvrir la magie et le mysticisme de la culture japonaise moderne, ce livre vous propose un guide à plusieurs niveaux. Avec ce livre, vous découvrirez la diversité infinie de la culture pop japonaise – un incontournable pour quiconque s'intéresse à la beauté et à l'influence du Japon sur le monde contemporain. Prêt pour une aventure ? Alors plongez et découvrez le Japon comme jamais auparavant ! Bien à vous, Hermann Candahashi",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 223,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1QwSEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1QwSEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=1QwSEQAAQBAJ&pg=PT15&dq=amine+manga&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=1QwSEQAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_l_Anime_%C3%A0_Yumi_Kawaii.html?hl=&id=1QwSEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/De_l_Anime_%C3%A0_Yumi_Kawaii-sample-epub.acsm?id=1QwSEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/De_l_Anime_%C3%A0_Yumi_Kawaii-sample-pdf.acsm?id=1QwSEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1QwSEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eanime\u003c/b\u003e Un autre facteur crucial dans le développement de la culture pop japonaise a été la montée du \u003cb\u003emanga\u003c/b\u003e et de l&#39;\u003cb\u003eanime\u003c/b\u003e . Les \u003cb\u003emangas\u003c/b\u003e , les bandes dessinées japonaises , trouvent leurs racines dans les premières illustrations et&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZfK9VTigj20C",
+      "etag": "nrjpiJXv1J4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZfK9VTigj20C",
+      "volumeInfo": {
+        "title": "Frames of Anime",
+        "subtitle": "Culture and Image-Building",
+        "authors": [
+          "Tze-Yue G. Hu"
+        ],
+        "publisher": "Hong Kong University Press",
+        "publishedDate": "2010-04-01",
+        "description": "\"Frames ofAnime provides a wonderfully concise and insightful historical overview of Japanese animation; more importantly, Tze-yue G. Hu also gives the reader a much-needed frame of reference--- cultural and historical --- for understanding its development.\" - Harvey Deneroff, Savannah College of Art and Design, Atlanta, Georgia \"This is a valuable study that transcends most of its predecessors by situating Japanese anime in its cultural context and providing detailed insight into the lives and works of some of Japan's most prominent animators and their struggles to establish it as a legitimate form of cinema and television media. Its authorship by an Asian scholar also conversant with Chinese and Southeast Asian cinema and comic book culture gives it a unique comparative character.\"-John Clammer, United Nations University Japanese anime has long fascinated the world, and its mythical heroes and dazzling colors increasingly influence popular culture genres in the West. Tze-yue G. Hu analyzes the \"language-medium\" of this remarkable expressive platform and its many socio-cultural dimensions from a distinctly Asian frame of reference, tracing its layers of concentric radiation from Japan throughout Asia. Her work, rooted in archival investigations, interviews with animators and producers in Japan as well as other Asian animation studios, and interdisciplinary research in linguistics and performance theory, shows how dialectical aspects of anime are linked to Japan's unique experience of modernity and its cultural associations in Asia, including its reliance on low-wage outsourcing. Her study also provides English readers with insights on numerous Japanese secondary sources, as well as a number of original illustrations offered by animators and producers she interviewed.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789622090989"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9622090982"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZfK9VTigj20C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZfK9VTigj20C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZfK9VTigj20C&pg=PA101&dq=amine+manga&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ZfK9VTigj20C&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Frames_of_Anime.html?hl=&id=ZfK9VTigj20C"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Frames_of_Anime-sample-epub.acsm?id=ZfK9VTigj20C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Frames_of_Anime-sample-pdf.acsm?id=ZfK9VTigj20C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZfK9VTigj20C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eanime\u003c/b\u003e part of the extension of a “ visual language ” that the Japanese have pursued and valued apart from the daily use of a language that has been ... \u003cb\u003emanga\u003c/b\u003e eiga Postwar Japanese Animation Development and Toei Animation Studio 101."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PLc22hQhZGwC",
+      "etag": "RNGXyn/8iTc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PLc22hQhZGwC",
+      "volumeInfo": {
+        "title": "Anime Classics Zettai!",
+        "subtitle": "100 Must-See Japanese Animation Masterpieces",
+        "authors": [
+          "Brian Camp",
+          "Julie Davis"
+        ],
+        "publisher": "Stone Bridge Press",
+        "publishedDate": "2011-10-01",
+        "description": "For anime connoisseurs, beginners, and the curious, the best of the best!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781611725193"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1611725194"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 338,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.11.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PLc22hQhZGwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PLc22hQhZGwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PLc22hQhZGwC&pg=PT334&dq=amine+manga&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PLc22hQhZGwC&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anime_Classics_Zettai.html?hl=&id=PLc22hQhZGwC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Anime_Classics_Zettai-sample-epub.acsm?id=PLc22hQhZGwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Anime_Classics_Zettai-sample-pdf.acsm?id=PLc22hQhZGwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PLc22hQhZGwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eAnime\u003c/b\u003e Interviews: The First Five Years of Animerica, \u003cb\u003eAnime\u003c/b\u003e &amp; \u003cb\u003eManga\u003c/b\u003e Monthly (1992–97). San Francisco: Cadence Books, 1997. Ledoux, Trish, and Doug Ranney. The Complete \u003cb\u003eAnime\u003c/b\u003e Guide: Japanese Animation Film Directory &amp; Resource Guide, 2nd&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SUFB8c4h5-oC",
+      "etag": "J8VYc5LbyPU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SUFB8c4h5-oC",
+      "volumeInfo": {
+        "title": "The Anime Machine",
+        "subtitle": "A Media Theory of Animation",
+        "authors": [
+          "Thomas LaMarre"
+        ],
+        "publisher": "U of Minnesota Press",
+        "publishedDate": "2009",
+        "description": "Working at the intersection of the philosophy of technology and the history of thought, Lamarre explores how anime and its related media entail material orientations and demonstrates concretely how the 'animetic machine' encourages a specific approach to thinking about technology.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780816651542"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "081665154X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 426,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SUFB8c4h5-oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SUFB8c4h5-oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SUFB8c4h5-oC&pg=PA288&dq=amine+manga&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=SUFB8c4h5-oC&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Anime_Machine.html?hl=&id=SUFB8c4h5-oC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Anime_Machine-sample-pdf.acsm?id=SUFB8c4h5-oC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SUFB8c4h5-oC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Media Theory of Animation Thomas LaMarre. Still , technically speaking , \u003cb\u003emanga\u003c/b\u003e are not moving images in the manner of cinema or animation . Even if we can persuasively speak of a succession of im- ages in ... \u003cb\u003eANIME\u003c/b\u003e EYES \u003cb\u003eMANGA\u003c/b\u003e."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gXqgDwAAQBAJ",
+      "etag": "IiSt3tvgs4s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gXqgDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Japanese Media Cultures in Japan and Abroad: Transnational Consumption of Manga, Anime, and Media-Mixes",
+        "authors": [
+          " Manuel Hernández-Pérez"
+        ],
+        "publisher": "MDPI",
+        "publishedDate": "2019-06-24",
+        "description": "In the last few decades, Japanese popular culture productions have been consolidated as one of the most influential and profitable global industries. As a creative industry, Japanese Media-Mixes generate multimillion-dollar revenues, being a product of international synergies and the natural appeal of the characters and stories. The transnationalization of investment capital, diversification of themes and (sub)genres, underlying threat in the proliferation of illegal audiences, development of internet streaming technologies, and other new transformations in media-mix-based production models make the study of these products even more relevant today. In this way, manga (Japanese comics), anime (Japanese animation), and video games are not necessarily products designed for the national market. More than ever, it is necessary to reconcile national and transnational positions for the study of this cultural production. The present volume includes contributions aligned to the analysis of Japanese popular culture flow from many perspectives (cultural studies, film, comic studies, sociology, etc.), although we have emphasized the relationships between manga, anime, and international audiences. The selected works include the following topics: • Studies on audiences—national and transnational case studies; • Fandom production and Otaku culture; • Cross-media and transmedia perspectives; • Theoretical perspectives on manga, anime, and media-mixes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783039210084"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3039210084"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gXqgDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gXqgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gXqgDwAAQBAJ&pg=PA13&dq=amine+manga&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=gXqgDwAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Japanese_Media_Cultures_in_Japan_and_Abr.html?hl=&id=gXqgDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Japanese_Media_Cultures_in_Japan_and_Abr-sample-pdf.acsm?id=gXqgDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gXqgDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eManga\u003c/b\u003e/Comics. Kyoto: Kyoto Seika University International \u003cb\u003eManga\u003c/b\u003e Research Center. Berndt, Jaqueline. 2018. \u003cb\u003eAnime\u003c/b\u003e in Academia: Representative Object, Media Form, and Japanese Studies. Arts 7: 1–13. [CrossRef] Bolter, Jay David, and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CCwREQAAQBAJ",
+      "etag": "ZBDSwpHtxIs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CCwREQAAQBAJ",
+      "volumeInfo": {
+        "title": "From Anime to Yumi Kawaii",
+        "subtitle": "A look behind the scenes of Japanese pop culture",
+        "authors": [
+          "Hermann Candahashi"
+        ],
+        "publisher": "Hermann Candahashi",
+        "publishedDate": "101-01-01",
+        "description": "Dive with me into the colorful and diverse world of Japanese pop culture that inspires millions of people around the world. With my latest book \"From Anime to Yumi Kawaii - A look behind the scenes of Japanese pop culture\" you will gain a profound insight into the unique fashion trends and the rousing music of J-Pop. This book offers you a comprehensive overview of the diversity and influence of Japanese pop culture on the Western world. From manga and anime to J-Pop and cosplay to adaptations in film and literature - this book reveals the profound influences and the worldwide enthusiasm for everything Japanese. Experience the magic of anime and manga, learn the secrets of cosplay and J-Pop. But also discover the dark side of this fascinating world of imagination and innovation. Understand how Japanese aesthetics influence global trends. This book is a must-have for lovers of Japanese pop culture, for travelers, students and anyone who is curious about the creative trends and cultural treasures of Japan. Join me on an exciting excursion through the land of the rising sun. Whether you are a die-hard otaku, a passionate cosplayer or simply looking for new cultural discoveries - this book is your ultimate companion. Get exclusive insights, exciting background information and learn how Japan's pop culture has conquered the world. Discover the soul of modern Japan and its pop culture! \"From Anime to Yumi Kawaii - A look behind the scenes of Japanese pop culture\" offers those interested a profound insight into a fascinating world of manga and anime, J-Pop and their origins in traditional art forms. Immerse yourself in the colorful worlds of Studio Ghibli. Follow me into a world full of colors, creativity and uniqueness. Visit Tokyo's dazzling cosplay centers and maid cafes, look behind the scenes of Naruto and Dragonball, and explore not only the diverse fascination but also their effects on Japanese society. With gripping insights, this book takes you on a cultural excursion through modern Japan and its dazzling pop culture. For adventurers, artists, lovers and anyone who wants to discover the magic and mysticism of modern Japanese culture, this book offers you a multi-layered guide. With this book you will discover the infinite variety of Japanese pop culture - a must for anyone interested in the beauty and influence of Japan on the contemporary world. Ready for an adventure? Then dive in and experience Japan like never before! Yours, Hermann Candahashi",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Antiques & Collectibles"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CCwREQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CCwREQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=CCwREQAAQBAJ&pg=PT14&dq=amine+manga&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=CCwREQAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/From_Anime_to_Yumi_Kawaii.html?hl=&id=CCwREQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/From_Anime_to_Yumi_Kawaii-sample-epub.acsm?id=CCwREQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/From_Anime_to_Yumi_Kawaii-sample-pdf.acsm?id=CCwREQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CCwREQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A look behind the scenes of Japanese pop culture Hermann Candahashi. The Rise of Manga and Anime Another crucial factor in the development of Japanese pop culture was the rise of manga and \u003cb\u003eanime\u003c/b\u003e . \u003cb\u003eManga\u003c/b\u003e , the Japanese comics , have their&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rzGqyHaUGYkC",
+      "etag": "298q945ABUU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rzGqyHaUGYkC",
+      "volumeInfo": {
+        "title": "Anime's Media Mix",
+        "subtitle": "Franchising Toys and Characters in Japan",
+        "authors": [
+          "Marc Steinberg"
+        ],
+        "publisher": "U of Minnesota Press",
+        "publishedDate": "2012",
+        "description": "Untangles the web of commodity, capitalism, and art that is anime",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780816675494"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "081667549X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 337,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rzGqyHaUGYkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rzGqyHaUGYkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=rzGqyHaUGYkC&pg=PA27&dq=amine+manga&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=rzGqyHaUGYkC&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anime_s_Media_Mix.html?hl=&id=rzGqyHaUGYkC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Anime_s_Media_Mix-sample-pdf.acsm?id=rzGqyHaUGYkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rzGqyHaUGYkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003emanga\u003c/b\u003e. Emonogatari declined during the late 1950s, giving way to or becoming indistinguishable from \u003cb\u003emanga\u003c/b\u003e.84 By the late 1950s, \u003cb\u003emanga\u003c/b\u003e gained primacy over these other ... \u003cb\u003emanga\u003c/b\u003e of Tezuka and his Limiting Movement, Inventing \u003cb\u003eAnime\u003c/b\u003e · 27."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Mez_EAAAQBAJ",
+      "etag": "MAfIzCxzJs8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Mez_EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Guide des meilleurs sites web",
+        "subtitle": "5000 sites pour 100% d'Internet",
+        "authors": [
+          "Thierry Crouzet",
+          "Rémi Pécheral"
+        ],
+        "publisher": "FeniXX",
+        "publishedDate": "1999-12-31T23:00:00+01:00",
+        "description": "5.000 sites classés par centre d'intérêts couvrant tous les aspects de la vie quotidienne, privée ou professionnelle, sont répertoriés. « Copyright Electre »",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782402448635"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2402448636"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 483,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Mez_EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Mez_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=Mez_EAAAQBAJ&pg=PA125&dq=amine+manga&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Mez_EAAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Guide_des_meilleurs_sites_web.html?hl=&id=Mez_EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Guide_des_meilleurs_sites_web-sample-pdf.acsm?id=Mez_EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Mez_EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... animé et les mangas réparties en catégo- ries : séries , home pages , sites commerciaux , clubs , bases de données ... FB Animint \u003cb\u003eAnime Manga\u003c/b\u003e animint.uru.org M Encyclopédie sur les mangas . Traductions , glossaire , biographies et&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GdwJAgAAQBAJ",
+      "etag": "KxT9UaHWAO4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GdwJAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Manga's Cultural Crossroads",
+        "authors": [
+          "Jaqueline Berndt",
+          "Bettina Kümmerling-Meibauer"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2014-03-14",
+        "description": "Focusing on the art and literary form of manga, this volume examines the intercultural exchanges that have shaped manga during the twentieth century and how manga’s culturalization is related to its globalization. Through contributions from leading scholars in the fields of comics and Japanese culture, it describes \"manga culture\" in two ways: as a fundamentally hybrid culture comprised of both subcultures and transcultures, and as an aesthetic culture which has eluded modernist notions of art, originality, and authorship. The latter is demonstrated in a special focus on the best-selling manga franchise, NARUTO.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781134102839"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1134102836"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 283,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GdwJAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GdwJAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GdwJAgAAQBAJ&pg=PA237&dq=amine+manga&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=GdwJAgAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manga_s_Cultural_Crossroads.html?hl=&id=GdwJAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Manga_s_Cultural_Crossroads-sample-pdf.acsm?id=GdwJAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GdwJAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003emanga\u003c/b\u003e , resulting in a plausible assertion of authorial status for these directors of the \u003cb\u003eanime\u003c/b\u003e episode . CONCLUSION A full consideration of authorial positions in the Naruto \u003cb\u003eanime\u003c/b\u003e series would become a book - length project.24 This&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FxUZHy9MXgoC",
+      "etag": "GH8ylSDpLGU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FxUZHy9MXgoC",
+      "volumeInfo": {
+        "title": "The Dragon and the Dazzle",
+        "subtitle": "Models, Strategies, and Identities of Japanese Imagination : a European Perspective",
+        "authors": [
+          "Marco Pellitteri",
+          "Jean-Marie Bouissou",
+          "Gianluca Di Fratta",
+          "Cristiano Martorella",
+          "Bounthavy Suvilay"
+        ],
+        "publisher": "Tunué",
+        "publishedDate": "2010",
+        "description": "\"In the worldwide circulation of the products of cultural industries, an important role is played by Japanese popular culture in European contexts. Marco Pellitteri shows that the contact between Japanese pop culture and European youth publics occurred during two phases. By use of metaphor, the author calls them the Dragon and the Dazzle. The first took place between 1975 and 1995, the second from 1996 to today. They can be distinguished by the modalities of circulation and consumption/re-elaboration of Japanese themes and products in the most receptive countries: Italy, France, Spain, Germany and, across the ocean, the United States. During these two phases, several themes have been perceived, in Europe, as rising from Japan's social and mediatic systems. Among them, this book examines the most apparent from a European point of view: the author names them machine, infant, and mutation, visible mostly through manga, anime, videogames, and toys. Together with France, Italy is the European country that in this respect has had the most central role. There, Japanese imagination has been acknowledged not only by young people, but also by politicians, television programmers, the general public, educators, comics and cartoons authors. The growing influence of Japanese pop culture, connected to the appreciation of its manga, anime, toys, and videogames, also urges political and mediologic questions linked to the identity/ies of Japan as they are understood--wrongly or rightly--in Europe and the West, and to the increasingly important role of Japan in international relations.\"--Back cover",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788889613894"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8889613890"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 734,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FxUZHy9MXgoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FxUZHy9MXgoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=FxUZHy9MXgoC&pg=PT9&dq=amine+manga&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=FxUZHy9MXgoC&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Dragon_and_the_Dazzle.html?hl=&id=FxUZHy9MXgoC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Dragon_and_the_Dazzle-sample-pdf.acsm?id=FxUZHy9MXgoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FxUZHy9MXgoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eanime\u003c/b\u003e Over the last few years , every time I have had the opportunity to visit dif- ferent countries , holding conferences on \u003cb\u003emanga\u003c/b\u003e and \u003cb\u003eanime\u003c/b\u003e in several uni- versities in Poland , Austria , Italy , France , Egypt , China , and South&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s52EAwAAQBAJ",
+      "etag": "nx7p43NIHnk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s52EAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Animation & Cartoons",
+        "authors": [
+          "Nicolae Sfetcu"
+        ],
+        "publisher": "MultiMedia Publishing",
+        "publishedDate": "2014-05-07",
+        "description": "An animated cartoon is a short, hand-drawn (or made with computers to look similar to something hand-drawn) moving picture for the cinema, TV or computer screen, featuring some kind of story or plot. Animation is the optical illusion of motion created by the consecutive display of images of static elements. In film and video production, this refers to techniques by which each frame of a film or movie is produced individually. Computer animation is the art of creating moving images via the use of computers. It is a subfield of computer graphics and animation. Anime is a medium of animation originating in Japan, with distinctive character and background aesthetics that visually set it apart from other forms of animation. An animated cartoon is a short, hand-drawn (or made with computers to look similar to something hand-drawn) moving picture for the cinema, TV or computer screen, featuring some kind of story or plot (even if it is a very short one). Manga is the Japanese word for comics and print cartoons. Outside of Japan, it usually refers specifically to Japanese comics. Special effects (abbreviated SPFX or SFX) are used in the film, television, and entertainment industry to visualize scenes that cannot be achieved by normal means, such as space travel. Stop motion is a generic gereral term for an animation technique which makes static objects appear to move.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 257,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "4.4.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s52EAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s52EAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=s52EAwAAQBAJ&pg=PA163&dq=amine+manga&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=s52EAwAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Animation_Cartoons.html?hl=&id=s52EAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s52EAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003emanga\u003c/b\u003e style. Many of these have their own small publishing houses, and some webcomics in this style have become very popular (see Megatokyo). For the ... ANIMATION &amp; CARTOONS \u003cb\u003eManga\u003c/b\u003e outside Japan Language notes References Notable \u003cb\u003eanime\u003c/b\u003e."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ILlaDwAAQBAJ",
+      "etag": "YSJ8NLoeF0w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ILlaDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Academic Writing, Third Edition",
+        "subtitle": "The Complete Guide",
+        "authors": [
+          "Steven C. Roe",
+          "Pamela H. den Ouden"
+        ],
+        "publisher": "Canadian Scholars",
+        "publishedDate": "2018-04-26",
+        "description": "Now in its third edition, Academic Writing offers a succinct and practical introduction to the development of research papers across the disciplines. Structured around contemporary genre theory, which establishes the importance of context for effective communication, the text describes the writing process step by step, including how to formulate a topic; gather and properly document sources; develop strong proposals, introductions, core paragraphs, and conclusions; and refine the final draft. Additionally, readers will observe the progress and thought processes of Jenna, a first-year student, as she crafts her own paper. New to this edition are materials for instructors that include full-length research papers, PowerPoint slides, an exam bank, and ideas for study. Rich with such pedagogical features as chapter learning objectives, annotated passages that illustrate aspects of academic style, and a glossary, Academic Writing is a must-have textbook for students developing their research and writing skills.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781773380407"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1773380400"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 346,
+        "printType": "BOOK",
+        "categories": [
+          "Reference"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ILlaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ILlaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ILlaDwAAQBAJ&pg=PA17&dq=amine+manga&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ILlaDwAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Academic_Writing_Third_Edition.html?hl=&id=ILlaDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Academic_Writing_Third_Edition-sample-pdf.acsm?id=ILlaDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ILlaDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eanime\u003c/b\u003e / \u003cb\u003emanga\u003c/b\u003e ( derivative cre- ative works , educational , propagandistic ) \u003cb\u003eAnime\u003c/b\u003e / \u003cb\u003emanga&#39;s\u003c/b\u003e acceptance of – and resistance to cultural , tech- nological , and social change The growth and development of \u003cb\u003eanime\u003c/b\u003e / \u003cb\u003emanga\u003c/b\u003e studies , its&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N4b4DwAAQBAJ",
+      "etag": "h9e2IuADpSs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N4b4DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Anime Clubs for Public Libraries",
+        "subtitle": "A Practical Guide for Librarians",
+        "authors": [
+          "Chantale Pard"
+        ],
+        "publisher": "Rowman & Littlefield",
+        "publishedDate": "2020-09-30",
+        "description": "\"Pard has created an indispensable guide for all anime clubs.\" Library Journal, Starred Review Anime (or “Japanese Animation”) has seen a continuing rise in popularity over the past decade of North American pop culture. Droves of die-hard, dedicated fans can be found all over comic shops, conventions, and social media at large, discussing or debating the merits of their favorite Anime fandoms. Public libraries have been quick to catch on, and have long been an excellent gathering place for this community of passionate consumers – be it for movie screenings or anime and manga collection offerings. With the recent widespread adoption of English dubbed content and the explosion of Anime merchandise sales outside of Japan, Anime and Manga are more accessible to North Americans than ever before. In addition to providing a long list of programming examples and ideas, this practical guide will teach librarians how to capture the interest of this fandom community, why the library is the perfect place to do so, and how to expand this thematic programming into further learning and socialization opportunities. Special Features include: Real examples of current and successful Anime Club programs created by librarians. Anime: It’s Not Just “Cartoons”! Discovering opportunities for youth engagement, STEM learning, and vital youth socialization within Japanese Animation. Clear, concise instructions for incorporating one off or series Anime events for all budget ranges and age groups. How to avoid cultural appropriation by engaging your community to make the most out of possible partnerships and resources. Anime Club party plans for a wide range of different holidays. How to obtain public performance rights for anime screenings, Where to find inclusive anime representations of diverse communities",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781538130735"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1538130734"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 195,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.26.14.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=N4b4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=N4b4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=N4b4DwAAQBAJ&pg=PA2&dq=amine+manga&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=N4b4DwAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anime_Clubs_for_Public_Libraries.html?hl=&id=N4b4DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Anime_Clubs_for_Public_Libraries-sample-epub.acsm?id=N4b4DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Anime_Clubs_for_Public_Libraries-sample-pdf.acsm?id=N4b4DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N4b4DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... manga ” of the same name ( also known as &quot; Mighty Atom &quot; in Japan ) . Brittanica Academic defines “ manga ” as the “ dense , novelistic Japanese comic book style that contributed greatly to the aesthetic of \u003cb\u003eanime\u003c/b\u003e . &quot; \u003cb\u003eManga\u003c/b\u003e , like anime&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OUCDAwAAQBAJ",
+      "etag": "0B49MIcrab8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OUCDAwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Art of Movies",
+        "authors": [
+          "Nicolae Sfetcu"
+        ],
+        "publisher": "Nicolae Sfetcu",
+        "publishedDate": "2014-05-06",
+        "description": "Movie is considered to be an important art form; films entertain, educate, enlighten and inspire audiences. Film is a term that encompasses motion pictures as individual projects, as well as — in metonymy — the field in general. The origin of the name comes from the fact that photographic film (also called filmstock) has historically been the primary medium for recording and displaying motion pictures. Many other terms exist — motion pictures (or just pictures or \"picture\"), the silver screen, photoplays, the cinema, picture shows, flicks — and commonly movies.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1030,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "4.6.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OUCDAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OUCDAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=OUCDAwAAQBAJ&pg=PA472&dq=amine+manga&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=OUCDAwAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Art_of_Movies.html?hl=&id=OUCDAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OUCDAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Nicolae Sfetcu. Manga has long had an influence on international comics and animation the world over. American artist ... \u003cb\u003eanime\u003c/b\u003e/\u003cb\u003emanga\u003c/b\u003e fan circles. These artists have their roots in the \u003cb\u003eanime\u003c/b\u003e/\u003cb\u003emanga\u003c/b\u003e subculture of their particular&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Jn4qwJ7LdMUC",
+      "etag": "agU1hFc4YNE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Jn4qwJ7LdMUC",
+      "volumeInfo": {
+        "title": "Comic Books",
+        "subtitle": "How the Industry Works",
+        "authors": [
+          "Shirrel Rhoades"
+        ],
+        "publisher": "Peter Lang",
+        "publishedDate": "2008",
+        "description": "This book is an insider's guide to how the comic book industry works. You'll learn how comic book superheroes are created and the deeper meanings they represent. You'll follow the development of sequential art storytelling - from caveman wall paintings to modern manga and cinematic techniques. Here you will explore comics in all forms: those flimsy pamphlets we call comic books; thick graphic novels; Japanese manga; and blockbuster movies featuring epic battles between good and evil. But behind it all, you'll discover how comics are an intellectual property business, the real money found in licensed bedsheets and fast-food merchandise, heart-pounding theme park rides and collectible toys, video games, and Hollywood extravaganza featuring such popular superheroes as Spider-Man, Superman, X-Men, and Batman.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0820488925"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780820488929"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 428,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Jn4qwJ7LdMUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Jn4qwJ7LdMUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Jn4qwJ7LdMUC&pg=PA235&dq=amine+manga&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Jn4qwJ7LdMUC&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Comic_Books.html?hl=&id=Jn4qwJ7LdMUC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Comic_Books-sample-pdf.acsm?id=Jn4qwJ7LdMUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Jn4qwJ7LdMUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eMANGA\u003c/b\u003e GOES \u003cb\u003eANIME\u003c/b\u003e In Japan , once a \u003cb\u003emanga\u003c/b\u003e comic has established a market it is often adapted into \u003cb\u003eanime\u003c/b\u003e - Japanese for “ animation . ” Although not as com- mon , original \u003cb\u003eanime\u003c/b\u003e is sometimes adapted into \u003cb\u003emanga\u003c/b\u003e ( such as Cowboy Bebob and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HGOzEAAAQBAJ",
+      "etag": "aRt80v2PhaI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HGOzEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Youth Tourist",
+        "subtitle": "Motives, Experiences and Travel Behaviour",
+        "authors": [
+          "Anna Irimiás"
+        ],
+        "publisher": "Emerald Group Publishing",
+        "publishedDate": "2023-03-23",
+        "description": "Anna Irimiás provides an informed overview on the characteristics of youth tourists with a focus on tourism consumption. Youth tourists’ pre-trip, on-stay and post-trip tourism behaviours are studied in light of the current trends. Challenges and implications are critically analysed.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781804551493"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "180455149X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 135,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HGOzEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HGOzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=HGOzEAAAQBAJ&pg=RA1-PA2021-IA2&dq=amine+manga&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=HGOzEAAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Youth_Tourist.html?hl=&id=HGOzEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Youth_Tourist-sample-epub.acsm?id=HGOzEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Youth_Tourist-sample-pdf.acsm?id=HGOzEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HGOzEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... Anime,. Manga. and. Cosplay. Japanese anime and manga fandom, which began in Japan in the 1960s, is becoming an increasingly interesting area of study as these art forms&#39; remarkably powerful influence on young ... \u003cb\u003eAnime\u003c/b\u003e, \u003cb\u003eManga\u003c/b\u003e and Cosplay."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "swsuBwAAQBAJ",
+      "etag": "VMpeeViC+g0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/swsuBwAAQBAJ",
+      "volumeInfo": {
+        "title": "Beyond Boundaries",
+        "subtitle": "East and West Cross-Cultural Encounters",
+        "authors": [
+          "Michelle Ying Ling Huang"
+        ],
+        "publisher": "Cambridge Scholars Publishing",
+        "publishedDate": "2012-04-25",
+        "description": "Beyond Boundaries: East and West Cross-Cultural Encounters is a collection of essays which span several countries, centuries and disciplines in their exploration of East-West cultural exchanges and interactions. The chapters are arranged in chronological and thematic order, and encompass the cutting edge research of a diverse group of international scholars. The subjects range from archaeology, art history and photography, to conservation, sociology and cultural studies, with cross-disciplinary examples of classical, modern and contemporary periods. The book seeks to inspire new ideas and stimulate further scholarly debate on the convergence, dissimilarities and mutual influences of the visual arts and material culture of Asia, the Middle East, Europe and the United States. The volume will be of interest to scholars and students working in the fields of art and cultural history as well as intercultural studies. It will be equally useful to collectors, artists and curators of global art and world cultures.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781443839365"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1443839361"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 276,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=swsuBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=swsuBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=swsuBwAAQBAJ&pg=PA216&dq=amine+manga&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=swsuBwAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beyond_Boundaries.html?hl=&id=swsuBwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Beyond_Boundaries-sample-pdf.acsm?id=swsuBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=swsuBwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... animation and Hollywood films and produced modern \u003cb\u003emanga\u003c/b\u003e and \u003cb\u003eanime\u003c/b\u003e in various styles . The new production methods help \u003cb\u003eanime\u003c/b\u003e companies in Japan to produce \u003cb\u003eanime\u003c/b\u003e more efficiently and cost - effectively . Unlike the children - oriented&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s80AAwAAQBAJ",
+      "etag": "cw6wjF++a/I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s80AAwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Cambridge Companion to Modern Japanese Culture",
+        "authors": [
+          "Yoshio Sugimoto"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2009-06-30",
+        "description": "This Companion provides a comprehensive overview of the influences that have shaped modern-day Japan. Spanning one and a half centuries from the Meiji Restoration in 1868 to the beginning of the twenty-first century, this volume covers topics such as technology, food, nationalism and rise of anime and manga in the visual arts. The Cambridge Companion to Modern Japanese Culture traces the cultural transformation that took place over the course of the twentieth century, and paints a picture of a nation rich in cultural diversity. With contributions from some of the most prominent scholars in the field, The Cambridge Companion to Modern Japanese Culture is an authoritative introduction to this subject.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781107495463"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1107495466"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 672,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s80AAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s80AAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=s80AAwAAQBAJ&pg=PT416&dq=amine+manga&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=s80AAwAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Cambridge_Companion_to_Modern_Japane.html?hl=&id=s80AAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Cambridge_Companion_to_Modern_Japane-sample-epub.acsm?id=s80AAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Cambridge_Companion_to_Modern_Japane-sample-pdf.acsm?id=s80AAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s80AAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Yoshio Sugimoto. As \u003cb\u003emanga\u003c/b\u003e and \u003cb\u003eanime\u003c/b\u003e have become more popular, involving more people in the various industries that produce and distribute them, Japanese visual culture has become an increasingly important area of scholarly analysis&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rrbaEAAAQBAJ",
+      "etag": "L6g6tea2rvw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rrbaEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Anime, Philosophy and Religion",
+        "authors": [
+          "Kaz Hayashi",
+          "William H. U. Anderson"
+        ],
+        "publisher": "Vernon Press",
+        "publishedDate": "2023-10-17",
+        "description": "Anime is exploding on the worldwide stage! Anime has been a staple in Japan for decades, strongly connected to manga. So why has anime become a worldwide sensation? A cursory explanation is the explosion of online streaming services specializing in anime, like Funimation and Crunchyroll. Even more general streaming services like Netflix and Amazon have gotten in on the game. Anime is exotic to Western eyes and culture. That is one of the reasons anime has gained worldwide popularity. This strange aesthetic draws the audience in only to find it is deeper and more sophisticated than its surface appearance. Japan is an honor and shame culture. Anime provides a platform to discuss “universal” problems facing human beings. It does so in an amazing variety of ways and subgenres, and often with a sense of humor. The themes, characters, stories, plotlines, and development are often complex. This makes anime a deep well of philosophical, metaphysical, and religious ideas for analysis. International scholars are represented in this book. There is a diversity of perspectives on a diversity of anime, themes, content, and analysis. It hopes to delve deeper into the complex world of anime and demonstrate why it deserves the respect of scholars and the public alike.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781648898006"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1648898009"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 364,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rrbaEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rrbaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=rrbaEAAAQBAJ&pg=PA2&dq=amine+manga&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=rrbaEAAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anime_Philosophy_and_Religion.html?hl=&id=rrbaEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Anime_Philosophy_and_Religion-sample-pdf.acsm?id=rrbaEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rrbaEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... anime appeared in the literature in the 1970s.3 In Japan, animation has been called different names, such as senga, kuga, anime-shon, manga-eiga, dōga, ugoku manga, \u003cb\u003eanime manga\u003c/b\u003e, komikku eiga, manga fuirumu, and bideo ge-mu anime.4 While in&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8M1CDwAAQBAJ",
+      "etag": "od430bNy/NM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8M1CDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Focus On: 100 Most Popular Light Novels",
+        "authors": [
+          "Wikipedia contributors"
+        ],
+        "publisher": "e-artnow sro",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9784057664132"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "4057664130"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 992,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8M1CDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8M1CDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8M1CDwAAQBAJ&pg=PA2112-IA108&dq=amine+manga&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8M1CDwAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Focus_On_100_Most_Popular_Light_Novels.html?hl=&id=8M1CDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Focus_On_100_Most_Popular_Light_Novels-sample-epub.acsm?id=8M1CDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Focus_On_100_Most_Popular_Light_Novels-sample-pdf.acsm?id=8M1CDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8M1CDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eAnime\u003c/b\u003e News Network . Retrieved May 14 , 2014 . 44. ^ 2014-05-14 , Nisekoi game announced for PS Vita , Gematsu 45 ... \u003cb\u003eManga\u003c/b\u003e Best Seller List , January 5-11 News &quot; \u003cb\u003eAnime\u003c/b\u003e News Network . Retrieved March 19 , 2014 . 50. ^ &quot; New York&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cIx4CAAAQBAJ",
+      "etag": "7R2lNQ6N5jQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cIx4CAAAQBAJ",
+      "volumeInfo": {
+        "title": "Handbook of Research on Teaching Literacy Through the Communicative and Visual Arts, Volume II",
+        "subtitle": "A Project of the International Reading Association",
+        "authors": [
+          "James Flood",
+          "Shirley Brice Heath",
+          "Diane Lapp"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2015-04-22",
+        "description": "The Handbook of Research on Teaching Literacy Through the Communicative and Visual Arts, Volume II brings together state-of-the-art research and practice on the evolving view of literacy as encompassing not only reading, writing, speaking, and listening, but also the multiple ways through which learners gain access to knowledge and skills. It forefronts as central to literacy education the visual, communicative, and performative arts, and the extent to which all of the technologies that have vastly expanded the meanings and uses of literacy originate and evolve through the skills and interests of the young. A project of the International Reading Association, published and distributed by Routledge/Taylor & Francis. Visit http://www.reading.org for more information about Internationl Reading Associationbooks, membership, and other services.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781317639701"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1317639707"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 628,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cIx4CAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cIx4CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cIx4CAAAQBAJ&pg=PA249&dq=amine+manga&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=cIx4CAAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Handbook_of_Research_on_Teaching_Literac.html?hl=&id=cIx4CAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Handbook_of_Research_on_Teaching_Literac-sample-pdf.acsm?id=cIx4CAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cIx4CAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eanime\u003c/b\u003e and \u003cb\u003emanga\u003c/b\u003e have received the most attention by fans in the English-speaking world. Not surprisingly, the most recent five years of that range coincide with increased interest by teachers, library media specialists, and researchers&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U7hthImoc5AC",
+      "etag": "Nb1v6ck668I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U7hthImoc5AC",
+      "volumeInfo": {
+        "title": "Pikachu's Global Adventure",
+        "subtitle": "The Rise and Fall of Pokemon",
+        "authors": [
+          "Joseph Tobin"
+        ],
+        "publisher": "Duke University Press",
+        "publishedDate": "2004-02-05",
+        "description": "DIVPokemon in a transnational and multidisciplinary perspective./div",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0822332876"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780822332879"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 318,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 11,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=U7hthImoc5AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=U7hthImoc5AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=U7hthImoc5AC&pg=PA60&dq=amine+manga&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=U7hthImoc5AC&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pikachu_s_Global_Adventure.html?hl=&id=U7hthImoc5AC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U7hthImoc5AC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003emanga\u003c/b\u003e and \u003cb\u003eanime\u003c/b\u003e , Okada boasts that Japan&#39;s homegrown otaku culture will make Japan a cultural Mecca ( Okada 1997 : 6–8 ) . Okada&#39;s most important evidence for the value of otaku culture is that it has passionate fans in the West . The&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x5szDwAAQBAJ",
+      "etag": "1y7IHHhvjD8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x5szDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Le voyage de Hana",
+        "subtitle": "Premier envol vers le Japon : destination Tokyo",
+        "authors": [
+          "Rosalys"
+        ],
+        "publisher": "Univers Partagés éditions",
+        "publishedDate": "2017-09-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782367500621"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2367500622"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Travel"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x5szDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x5szDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=x5szDwAAQBAJ&pg=PT107&dq=amine+manga&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=x5szDwAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Le_voyage_de_Hana.html?hl=&id=x5szDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x5szDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003emanga\u003c/b\u003e et \u003cb\u003eanime\u003c/b\u003e Love live! : \u003cb\u003eAnime\u003c/b\u003e, jeux vidéos et \u003cb\u003emanga\u003c/b\u003e SailorMoon Crystal : \u003cb\u003eAnime\u003c/b\u003e Sword Art Online : Light novel, \u003cb\u003eanime\u003c/b\u003e et \u003cb\u003emanga\u003c/b\u003e Fairy Tail : \u003cb\u003eManga\u003c/b\u003e et \u003cb\u003eanime\u003c/b\u003e Soul Eater : \u003cb\u003eManga\u003c/b\u003e et \u003cb\u003eanime\u003c/b\u003e PreCure : \u003cb\u003eAnime\u003c/b\u003e Ghibli : Studio de films d&#39;animation&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N3e00UlzHjgC",
+      "etag": "gQcwwaYu6vA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N3e00UlzHjgC",
+      "volumeInfo": {
+        "title": "The Anime Art of Hayao Miyazaki",
+        "authors": [
+          "Dani Cavallaro"
+        ],
+        "publisher": "McFarland",
+        "publishedDate": "2015-05-12",
+        "description": "The thought-provoking, aesthetically pleasing animated films of Hayao Miyazaki attract audiences well beyond the director's native Japan. Princess Mononoke and Spirited Away were critically acclaimed upon U.S. release, and the earlier My Neighbor Totoro and Kiki's Delivery Service have found popularity with Americans on DVD. This critical study of Miyazaki's work begins with an analysis of the visual conventions of manga, Japanese comic books, and anime; an overview of Japanese animated films; and a consideration of the techniques deployed by both traditional cel and computer animation. This section also details Miyazaki's early forays into comic books and animation, and his output prior to his founding of Studio Ghibli. Part Two concentrates on the Studio Ghibli era, outlining the company's development and analyzing the director's productions between 1984 and 2004, including Castle in the Sky, My Neighbor Totoro and his newest film, Howl's Moving Castle. The second section also discusses other productions involving Studio Ghibli, including Grave of the Fireflies and The Cat Returns. Appendices supply additional information about Studio Ghibli's merchandise production, Miyazaki's global fan base, and the output of other Ghibli directors.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780786451296"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0786451297"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 213,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=N3e00UlzHjgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=N3e00UlzHjgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=N3e00UlzHjgC&pg=PA15&dq=amine+manga&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=N3e00UlzHjgC&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Anime_Art_of_Hayao_Miyazaki.html?hl=&id=N3e00UlzHjgC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Anime_Art_of_Hayao_Miyazaki-sample-epub.acsm?id=N3e00UlzHjgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Anime_Art_of_Hayao_Miyazaki-sample-pdf.acsm?id=N3e00UlzHjgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N3e00UlzHjgC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dani Cavallaro. 1 The Frame of Reference Manga and \u003cb\u003eAnimé Manga\u003c/b\u003e are conventionally regarded as the equivalent of Western comic books or graphic novels yet are profoundly different from either , both in stylistic and in the- matic terms ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VJ8TEQAAQBAJ",
+      "etag": "p97YEhVy3uQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VJ8TEQAAQBAJ",
+      "volumeInfo": {
+        "title": "TV Writing On Demand",
+        "subtitle": "What's Now + What's Next.",
+        "authors": [
+          "Neil Landau"
+        ],
+        "publisher": "Taylor & Francis",
+        "publishedDate": "2024-08-13",
+        "description": "This book takes a deep dive into writing for today’s audiences, against the backdrop of a constantly evolving TV ecosystem. The aim of this 2nd edition is to go beyond an analysis of what makes exceptionally compelling episodic TV series work. It is a master course in the creation of entertainment that does more than meet the standards of modern audiences – it challenges their expectations. The book will help readers discover how to satisfy the satiated viewer, by analyzing the new hybrid genres, trends, and how to make smart initial decisions for a strong, sustainable story. It will also cover the development of iconic characters that foster empathy and entice viewers to bond with characters and generate the sensation that their problems are mutual. Finally, the book will also take a deep dive into creating a lasting, meaningful career in the TV marketplace, by overcoming trips, traps and tropes, the pros and cons of IP, the use of pitch documents, pitch decks, and show “bibles” as proof-of-concept in the marketplace. This will be an essential resource for student and professional writers and is supplemented with a companion website offering additional content, including script excerpts, pitch document/deck/show bible samples, scene analysis and templates, plus useful writing exercises to break new ground and to mine new territory.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781040096154"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1040096158"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 343,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VJ8TEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VJ8TEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VJ8TEQAAQBAJ&pg=PT125&dq=amine+manga&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VJ8TEQAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/TV_Writing_On_Demand.html?hl=&id=VJ8TEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/TV_Writing_On_Demand-sample-epub.acsm?id=VJ8TEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/TV_Writing_On_Demand-sample-pdf.acsm?id=VJ8TEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VJ8TEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... manga without talking about the anime . There&#39;s an interesting aspect of \u003cb\u003eanime\u003c/b\u003e - \u003cb\u003emanga\u003c/b\u003e fandom in that it generally is truly \u003cb\u003eanime\u003c/b\u003e - \u003cb\u003emanga\u003c/b\u003e fandom . It&#39;s the norm to consider both a manga and its anime adaptation jointly and in&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eKwYBwAAQBAJ",
+      "etag": "pnbgKRevzLI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eKwYBwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Computer Culture Reader",
+        "authors": [
+          "Joseph R. Chaney",
+          "Ken S. McAllister",
+          "Judd Ethan Ruggill"
+        ],
+        "publisher": "Cambridge Scholars Publishing",
+        "publishedDate": "2009-03-26",
+        "description": "The Computer Culture Reader brings together a multi-disciplinary group of scholars to probe the underlying structures and overarching implications of the ways in which people and computers collaborate in the production of meaning. The contributors navigate the heady and sometimes terrifying atmosphere surrounding the digital revolution in an attempt to take its measure through examinations of community and modes of communication, representation, information-production, learning, work, and play. The authors address questions of art, reality, literacy, history, heroism, commerce, crime, and death, as well as specific technologies ranging from corporate web portals and computer games to social networking applications and virtual museums. In all, the essayists work around and through the notion that the desire to communicate is at the heart of the digital age, and that the opportunity for private and public expression has taken a commanding hold on the modern imagination. The contributors argue, ultimately, that the reference ﬁeld for the technological and cultural changes at the root of the digital revolution extends well beyond any specific locality, nationality, discourse, or discipline. Consequently, this volume advocates for an adaptable perspective that delivers new insights about the robust and fragile relationships between computers and people.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781443806664"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1443806668"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 332,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eKwYBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eKwYBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=eKwYBwAAQBAJ&pg=PA123&dq=amine+manga&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=eKwYBwAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Computer_Culture_Reader.html?hl=&id=eKwYBwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Computer_Culture_Reader-sample-pdf.acsm?id=eKwYBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eKwYBwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eanime\u003c/b\u003e series and then move to the \u003cb\u003emanga\u003c/b\u003e, but also the ways in which the companies promote this consumptive practice by adding coupons for the \u003cb\u003eanime\u003c/b\u003e in a \u003cb\u003emanga\u003c/b\u003e title or bundling \u003cb\u003emanga\u003c/b\u003e and \u003cb\u003eanime\u003c/b\u003e together to incite consumers to buy&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mm9bEAAAQBAJ",
+      "etag": "XOmSUsbRw6k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mm9bEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Research Anthology on Fandoms, Online Social Communities, and Pop Culture",
+        "authors": [
+          "Management Association, Information Resources"
+        ],
+        "publisher": "IGI Global",
+        "publishedDate": "2022-01-28",
+        "description": "The internet has grown to become one of the largest communication hubs in history. With its ability to share content and create community bonds, it has seen many fandoms and online social communities develop within the past decades. While there are some detriments to these communities, there are also many benefits and potential uses for the betterment of society. The Research Anthology on Fandoms, Online Social Communities, and Pop Culture explores the ways in which the internet has presented itself as a platform for communities to gather. This essential reference source discusses the engagement of these communities, social media use, and the uses of these communities for education. Covering topics such as digital communities, transmedia language learning, and digital humanities, this book is a vital tool for educators of K-12 and higher education, digital folklorists, sociologists, communications researchers, online administrators, community leaders, and academicians.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781668445167"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1668445166"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 458,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mm9bEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mm9bEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=mm9bEAAAQBAJ&pg=PA105&dq=amine+manga&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=mm9bEAAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Research_Anthology_on_Fandoms_Online_Soc.html?hl=&id=mm9bEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Research_Anthology_on_Fandoms_Online_Soc-sample-pdf.acsm?id=mm9bEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mm9bEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eanime\u003c/b\u003e or \u003cb\u003emanga\u003c/b\u003e fan. In some \u003cb\u003eanime\u003c/b\u003e and \u003cb\u003emanga\u003c/b\u003e clubs, the people talking about the \u003cb\u003eanime\u003c/b\u003e and \u003cb\u003emanga\u003c/b\u003e could be anyone of any age. Surprisingly, \u003cb\u003eanime\u003c/b\u003e and \u003cb\u003emanga\u003c/b\u003e encourage fans to talk. Even a quiet person will talk about their favourite&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "duL8WZh9xjQC",
+      "etag": "545WefMMPWI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/duL8WZh9xjQC",
+      "volumeInfo": {
+        "title": "Cartoon Cultures",
+        "subtitle": "The Globalization of Japanese Popular Media",
+        "authors": [
+          "Anne Cooper-Chen"
+        ],
+        "publisher": "Peter Lang",
+        "publishedDate": "2010",
+        "description": "From 1993 to 2003, exports of Japan's cartoon arts tripled in value, to $12.5 billion. Fan phenomena around the world - in U.S. malls, teen girls flock to purchase the latest Fruits Basket graphic novel; in Hungary, young people gather for a summer «cosplay» (costume dress-up) event - illustrate the global popularity of manga and anime. Drawing on extensive research and more than 100 original interviews, Anne Cooper-Chen explains how and why the un-Disney has penetrated nearly every corner of the planet. This book uses concepts such as cultural proximity, uses and gratifications, and cultural variability to explain cross-cultural adaptations in a broad international approach. It emphasizes that overseas acceptance has surprised the Japanese, who create manga and anime primarily for a domestic audience. Including some sobering facts about the future of the industry, the book highlights how overseas enthusiasm could actually save a domestic industry that may decline in the contracting and graying country of its birth. Designed for courses covering international mass media, media and globalization and introduction to Japanese culture, the book is written primarily for undergraduates, and includes many student-friendly features such as a glossary, timeline and source list.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1433103680"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781433103681"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=duL8WZh9xjQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=duL8WZh9xjQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=duL8WZh9xjQC&pg=PA124&dq=amine+manga&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=duL8WZh9xjQC&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cartoon_Cultures.html?hl=&id=duL8WZh9xjQC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cartoon_Cultures-sample-pdf.acsm?id=duL8WZh9xjQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=duL8WZh9xjQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003emanga\u003c/b\u003e and \u003cb\u003eanime\u003c/b\u003e , con- firms that in Germany &quot; the shoujo market is very strong . Daisuki is a major shoujo publisher . Bandai does boys &#39; \u003cb\u003emanga\u003c/b\u003e . &quot; He spoke to the author in May 2009 at the institute&#39;s Tokyo office . His work built on&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "k-GnNJC9HskC",
+      "etag": "doVQokvOEMg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/k-GnNJC9HskC",
+      "volumeInfo": {
+        "title": "Beautiful Fighting Girl",
+        "authors": [
+          "Tamaki Saitō"
+        ],
+        "publisher": "U of Minnesota Press",
+        "publishedDate": "2011",
+        "description": "From Nausicaä to Sailor Moon, understanding girl heroines of manga and anime within otaku culture.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780816654505"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0816654506"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 243,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=k-GnNJC9HskC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=k-GnNJC9HskC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=k-GnNJC9HskC&pg=PA128&dq=amine+manga&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=k-GnNJC9HskC&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beautiful_Fighting_Girl.html?hl=&id=k-GnNJC9HskC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Beautiful_Fighting_Girl-sample-pdf.acsm?id=k-GnNJC9HskC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=k-GnNJC9HskC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eanime\u003c/b\u003e, 1980) Macross (TV \u003cb\u003eanime\u003c/b\u003e, 1982) Akira (\u003cb\u003emanga\u003c/b\u003e, 1982) Harmagedon (feature-length \u003cb\u003eanime\u003c/b\u003e, 1983) Uchū Keiji Shaider (live- action TV series, 1984) Squadron, giant robot, and so forth in very large numbers Magical Girl Transforming Girl&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yYInVE6OLiQC",
+      "etag": "VeoOgAzRkZE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yYInVE6OLiQC",
+      "volumeInfo": {
+        "title": "Demanding Respect",
+        "subtitle": "The Evolution of the American Comic Book",
+        "authors": [
+          "Paul Lopes"
+        ],
+        "publisher": "Temple University Press",
+        "publishedDate": "2009-04-07",
+        "description": "From pulp comics to Maus, the story of the growth of comics in American culture.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781592134441"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1592134440"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "categories": [
+          "COMICS & GRAPHIC NOVELS"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yYInVE6OLiQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yYInVE6OLiQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=yYInVE6OLiQC&pg=PA153&dq=amine+manga&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=yYInVE6OLiQC&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Demanding_Respect.html?hl=&id=yYInVE6OLiQC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Demanding_Respect-sample-epub.acsm?id=yYInVE6OLiQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Demanding_Respect-sample-pdf.acsm?id=yYInVE6OLiQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yYInVE6OLiQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003emanga\u003c/b\u003e a lifestyle.”2 An important aspect of \u003cb\u003emanga\u003c/b\u003e in Japan, and an important part of the story of \u003cb\u003emanga&#39;s\u003c/b\u003e success in North America, is its intimate relationship to Japanese animation, \u003cb\u003eanime\u003c/b\u003e. \u003cb\u003eAnime\u003c/b\u003e developed out of \u003cb\u003emanga\u003c/b\u003e, and since&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qe5JEAAAQBAJ",
+      "etag": "EaGz38l7LvQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qe5JEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Courteous Power",
+        "subtitle": "Japan and Southeast Asia in the Indo-Pacific Era",
+        "authors": [
+          "John D. Ciorciari",
+          "Kiyoteru Tsutsui"
+        ],
+        "publisher": "University of Michigan Press",
+        "publishedDate": "2021-11-08",
+        "description": "The Courteous Power seeks to provide a nuanced view of the current relationship between Japan and Southeast Asia. Much of the current scholarship on East–Southeast Asian engagement has focused on the multidimensional chess game playing out between China and Japan, as the dominant post-imperialist powers. Alternatively, there has been renewed attention on ASEAN and other Southeast Asian–centered initiatives, explicitly minimizing the influence of East Asia in the region. Given the urgency of understanding the careful balance in the Indo-Pacific region, this volume brings together scholars to examine the history and current engagement from a variety of perspectives, ranging from economic and political, to the cultural and technological, while also focusing more clearly on the specific relationship between the region and Japan.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780472054978"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "047205497X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 333,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qe5JEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qe5JEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qe5JEAAAQBAJ&pg=PA266&dq=amine+manga&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qe5JEAAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Courteous_Power.html?hl=&id=qe5JEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qe5JEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003emanga\u003c/b\u003e - esque media in their representations . Observing the Duterte \u003cb\u003eanime\u003c/b\u003e and \u003cb\u003emanga\u003c/b\u003e samples , a casual observer would argue that what is consumed is not \u003cb\u003eanime\u003c/b\u003e or \u003cb\u003emanga\u003c/b\u003e , but rather Philippine animation or komiks . 55 However , due&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ANSjEAAAQBAJ",
+      "etag": "icdC8Nj2/eg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ANSjEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Anime and Manga Mega Handbook",
+        "authors": [
+          "Scholastic"
+        ],
+        "publisher": "Scholastic Inc.",
+        "publishedDate": "2023-09-05",
+        "description": "Become an anime and manga expert with this must-have, 100% unofficial guide! Chock full of cool info, anime and manga fans will not want to miss out! From One Piece to Sailor Moon, Haikyuu to Spy x Family, the Ultimate Guide to Anime and Manga has everything you need to know about amazing anime and manga! Full of recaps, character backgrounds, plot theories, backstory, trivia, and much, much more, this MEGA guide has everything fans need to stay in the know on everything anime and manga!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781339018294"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1339018292"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ANSjEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ANSjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ANSjEAAAQBAJ&printsec=frontcover&dq=amine+manga&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ANSjEAAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anime_and_Manga_Mega_Handbook.html?hl=&id=ANSjEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Anime_and_Manga_Mega_Handbook-sample-epub.acsm?id=ANSjEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Anime_and_Manga_Mega_Handbook-sample-pdf.acsm?id=ANSjEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ANSjEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Full of recaps, character backgrounds, plot theories, backstory, trivia, and much, much more, this MEGA guide has everything fans need to stay in the know on everything anime and manga!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fJjhAAAAMAAJ",
+      "etag": "E6i2dWhpyyw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fJjhAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Library Journal",
+        "authors": [
+          "Melvil Dewey",
+          "Richard Rogers Bowker",
+          "L. Pylodet",
+          "Charles Ammi Cutter",
+          "Bertine Emma Weston",
+          "Karl Brown",
+          "Helen E. Wessells"
+        ],
+        "publishedDate": "2007",
+        "description": "Includes, beginning Sept. 15, 1954 (and on the 15th of each month, Sept.-May) a special section: School library journal, ISSN 0000-0035, (called Junior libraries, 1954-May 1961). Also issued separately.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015081489620"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 770,
+        "printType": "BOOK",
+        "categories": [
+          "Electronic journals"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.22.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fJjhAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fJjhAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fJjhAAAAMAAJ&q=amine+manga&dq=amine+manga&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=fJjhAAAAMAAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Library_Journal.html?hl=&id=fJjhAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fJjhAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... Anime and Manga . Univ . of Minnesota . 2006. 184p . ISBN 0- 8166-4945-6 . $ 19.95 . SOC SCI This is the inaugural volume of an academic - level annual devoted to \u003cb\u003eanime\u003c/b\u003e , \u003cb\u003emanga\u003c/b\u003e , and related art forms and issues . Opening , amazingly&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9UEfAAAAQBAJ",
+      "etag": "fmqPHga5Ji4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9UEfAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Fashioning Japanese Subcultures",
+        "authors": [
+          "Yuniya Kawamura"
+        ],
+        "publisher": "Berg",
+        "publishedDate": "2013-08-15",
+        "description": "Western fashion has been widely appreciated and consumed in Tokyo for decades, but since the mid-1990s Japanese youth have been playing a crucial role in forming their own unique fashion communities and producing creative styles which have had a major impact on fashion globally. Geographically and stylistically defined, subcultures such as Lolita in Harajuku, Gyaru and Gyaru-o in Shibuya, Age-jo in Shinjuku, and Mori Girl in Kouenji, reflect the affiliation and identities of their members, and have often blurred the boundary between professionals and amateurs for models, photographers, merchandisers and designers. Based on insightful ethnographic fieldwork in Tokyo, Fashioning Japanese Subcultures is the first theoretical and analytical study on Japan's contemporary youth subcultures and their stylistic expressions. It is essential reading for students, scholars and anyone interested in fashion, sociology and subcultures.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780857852151"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0857852159"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 215,
+        "printType": "BOOK",
+        "categories": [
+          "Design"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9UEfAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9UEfAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9UEfAAAAQBAJ&pg=PA83&dq=amine+manga&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9UEfAAAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fashioning_Japanese_Subcultures.html?hl=&id=9UEfAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fashioning_Japanese_Subcultures-sample-pdf.acsm?id=9UEfAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9UEfAAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003emanga\u003c/b\u003e and \u003cb\u003eanime\u003c/b\u003e DVDs, figurines, and cosplay costumes. According to an Otaku, “you find rare items in Nakano. Hard- core \u003cb\u003eanime\u003c/b\u003e and \u003cb\u003emanga\u003c/b\u003e fans go there. Akihabara is becoming too mainstream. Some say that Nakano is actually the true&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hmkRa4brSwIC",
+      "etag": "KhtMOP3F+jw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hmkRa4brSwIC",
+      "volumeInfo": {
+        "title": "L'Art contemporain japonais: une quête d'identité",
+        "subtitle": "Expression de la crise identitaire au Japon - 1990 à nos jours",
+        "authors": [
+          "Charlène Veillon"
+        ],
+        "publisher": "Editions L'Harmattan",
+        "publishedDate": "2008-09-01",
+        "description": "Né de la crise qui a ébranlé le Japon dans les années 90, l'art contemporain japonais triomphe sur le marché culturel international en s'inspirant du questionnement identitaire de la société. Cet ouvrage propose un nouvel éclairage de ces quinze dernières années en expliquant et en définissant tous les phénomènes socioculturels nippons qui interpellent les artistes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782296203327"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2296203329"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 390,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.11.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hmkRa4brSwIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hmkRa4brSwIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=hmkRa4brSwIC&pg=PA35&dq=amine+manga&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=hmkRa4brSwIC&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_Art_contemporain_japonais_une_qu%C3%AAte_d.html?hl=&id=hmkRa4brSwIC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/L_Art_contemporain_japonais_une_qu%C3%AAte_d-sample-epub.acsm?id=hmkRa4brSwIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/L_Art_contemporain_japonais_une_qu%C3%AAte_d-sample-pdf.acsm?id=hmkRa4brSwIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hmkRa4brSwIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003emanga\u003c/b\u003e et les \u003cb\u003eanime\u003c/b\u003e est très large , tant en termes de sexes ( femmes et hommes ) que d&#39;âges ( l&#39;expression occidentale &lt;&lt; de sept à soixante - dix - sept ans » s&#39;applique parfaitement aux \u003cb\u003emanga\u003c/b\u003e ) , le cœur de cible de toute l&#39;industrie&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LTtDAQAAIAAJ",
+      "etag": "iBMdA/tTNCo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LTtDAQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Anime Movie Guide",
+        "authors": [
+          "Helen McCarthy"
+        ],
+        "publisher": "Overlook Books",
+        "publishedDate": "1997",
+        "description": "The phenomenally popular \"Power Rangers\", the most mainstream offshoot of \"anime\", or Japanese animation, is just the tip of the iceberg. There are hundreds of these virtually astonishing films, appealing to people of all ages and tastes. This guide features detailed listings of feature films and direct-to-video features, arranged by title, year of release, and subject, that have been released since 1983. Illustrations throughout.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSD:31822032209652"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 302,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LTtDAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LTtDAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LTtDAQAAIAAJ&q=amine+manga&dq=amine+manga&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=LTtDAQAAIAAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Anime_Movie_Guide.html?hl=&id=LTtDAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LTtDAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... anime in English outside the fan circuit . A rash of articles and theses on anime and manga has appeared , but unfortu- nately many of these are written with no detailed knowledge of \u003cb\u003eanime\u003c/b\u003e , \u003cb\u003emanga\u003c/b\u003e or Japan ; at best they are speculation&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mkJYzgEACAAJ",
+      "etag": "loF3Jiusuqg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mkJYzgEACAAJ",
+      "volumeInfo": {
+        "title": "Manga Coloriage",
+        "subtitle": "Livre de Coloriage Manga Anime Pour Enfants et Adultes , Fille et Garcons and des Dessins à Colorier de Type Naruto Dragon Ball One Piece Attaque des Titans Death Note et Beacoup à Colorier and Super Avec Haut Qualite and Pour Cadeaux .",
+        "authors": [
+          "coloriage manga"
+        ],
+        "publishedDate": "2020-12-21",
+        "description": "★ Livre de coloriage anime : ① 50 manga different a colorier. ② les images de grande qualite. ③ Coloriage pour enfant et adulte. ④ Livre se compose de 101 pages de taille (8,5poX11po). ♥ Merci de votre achat ♥",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798584979157"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=mkJYzgEACAAJ&dq=amine+manga&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=mkJYzgEACAAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manga_Coloriage.html?hl=&id=mkJYzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mkJYzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "★ Livre de coloriage anime : ① 50 manga different a colorier. ② les images de grande qualite. ③ Coloriage pour enfant et adulte. ④ Livre se compose de 101 pages de taille (8,5poX11po). ♥ Merci de votre achat ♥"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-gZPAgAAQBAJ",
+      "etag": "Fd1GC+wm6l4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-gZPAgAAQBAJ",
+      "volumeInfo": {
+        "title": "McGraw-Hill Education TOEFL iBT with 3 Practice Tests",
+        "authors": [
+          "Tim Collins"
+        ],
+        "publisher": "McGraw Hill Professional",
+        "publishedDate": "2013-12-06",
+        "description": "What you need to know to ace the TOEFL exam McGraw-Hill's TOEFL will help you reach the exam score you want. Inside you will find a full-scale test-prep program that combines book, interactive CD-ROM, and online audio to give you the most complete TOEFL instruction and practice available anywhere. Includes: 5 full-length practice tests, fully explained exercises, additional practice questions, and TOEFL-specific vocabulary features to accompany every lesson A PC- and Mac-compatible CD that features all 5 practice tests in interactive format, like the real exam, audio portions for all additional listening exercises, plus model speaking responses and record-and-playback function for student speaking responses Audio tracks for all listening questions in the book",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780071796200"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0071796207"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 751,
+        "printType": "BOOK",
+        "categories": [
+          "Study Aids"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-gZPAgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-gZPAgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-gZPAgAAQBAJ&q=amine+manga&dq=amine+manga&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=-gZPAgAAQBAJ&dq=amine+manga&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/McGraw_Hill_Education_TOEFL_iBT_with_3_P.html?hl=&id=-gZPAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-gZPAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eManga\u003c/b\u003e and \u003cb\u003eanime\u003c/b\u003e are two related entertainment forms from Japan. \u003cb\u003eManga\u003c/b\u003e are special Japanese comic books, and \u003cb\u003eanime\u003c/b\u003e is special Japanese animation. According to reading, \u003cb\u003emanga\u003c/b\u003e and \u003cb\u003eanime\u003c/b\u003e are very similar, but professor does not agree with&nbsp;..."
+      }
+    }
+  ]
+}
