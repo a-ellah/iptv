@@ -2,21 +2,21 @@
   {
     "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/pharmacy.jpg",
     "title": "Pharmacies",
-    "url": "Get.to(const Pharmacies())"
+    "url": "Pharmacies()"
   },
   {
     "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/medical.jpg",
     "title": "Medical",
-    "url": "Get.to(const Pharmacies())"
+    "url": "Pharmacies()"
   },
   {
     "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/turisme.jpg",
     "title": "Turisme",
-    "url": "Get.to(const Pharmacies())"
+    "url": "Pharmacies()"
   },
   {
     "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/discount.jpg",
     "title": "Discount",
-    "url": "Get.to(const Pharmacies())"
+    "url": "Pharmacies()"
   }
 ]
