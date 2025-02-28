@@ -250,5 +250,47 @@
     "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
     "categories": ["open", "taher"],
     "languages": ["all", "taher"]
+  },
+  {
+    "id": "20",
+    "date": "28-02-2025",
+    "name": "Taher Municipality Pharmacies",
+    "image": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/pharmacies/taher-3.jpg",
+    "lat": "36.815110",
+    "long": "5.764838",
+    "map": "https://maps.app.goo.gl/adM4QZq2CA5y2Lx69",
+    "phone": "213772808866",
+    "mail": "aaaaaaaa@gmail.com",
+    "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
+    "categories": ["open", "jijel"],
+    "languages": ["all", "jijel"]
+  },
+  {
+    "id": "21",
+    "date": "28-02-2025",
+    "name": "Taher Municipality Pharmacies",
+    "image": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/pharmacies/taher-3.jpg",
+    "lat": "36.815110",
+    "long": "5.764838",
+    "map": "https://maps.app.goo.gl/adM4QZq2CA5y2Lx69",
+    "phone": "213772808866",
+    "mail": "aaaaaaaa@gmail.com",
+    "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
+    "categories": ["open", "taher"],
+    "languages": ["all", "taher"]
+  },
+  {
+    "id": "22",
+    "date": "28-02-2025",
+    "name": "Taher Municipality Pharmacies",
+    "image": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/pharmacies/taher-3.jpg",
+    "lat": "36.815110",
+    "long": "5.764838",
+    "map": "https://maps.app.goo.gl/adM4QZq2CA5y2Lx69",
+    "phone": "213772808866",
+    "mail": "aaaaaaaa@gmail.com",
+    "address": "Rue des Frères Yacef Bachir et Rabah, Jijel",
+    "categories": ["open", "milia"],
+    "languages": ["all", "milia"]
   }
 ]
