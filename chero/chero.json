@@ -1,22 +1,27 @@
 [
   {
-    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/pharmacy.jpg",
+    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/pharma.jpg",
     "title": "pharma",
     "url": "Pharmacies()"
   },
   {
-    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/medical.jpg",
+    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/doctor.jpg",
     "title": "doctor",
 
     "url": "Pharmacies()"
   },
   {
-    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/turisme.jpg",
+    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/tourism.jpg",
     "title": "tourism",
     "url": "Pharmacies()"
   },
   {
-    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/turisme.jpg",
+    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/service.jpg",
+    "title": "service",
+    "url": "Pharmacies()"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/price.jpg",
     "title": "price",
     "url": "Pharmacies()"
   },
