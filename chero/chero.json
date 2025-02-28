@@ -1,0 +1,22 @@
+[
+  {
+    "logo": "pharmacy.png",
+    "title": "Pharmacies",
+    "url": "Pharmacies()"
+  },
+  {
+    "logo": "medical.png",
+    "title": "Medical",
+    "url": "Medical()"
+  },
+  {
+    "logo": "turisme.png",
+    "title": "Turisme",
+    "url": "Turisme()"
+  },
+  {
+    "logo": "discount.png",
+    "title": "Discount",
+    "url": "Discount()"
+  }
+]
