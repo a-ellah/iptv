@@ -29,5 +29,13 @@
     "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/discount.jpg",
     "title": "discount",
     "url": "Pharmacies()"
+  }, {
+    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/food.jpg",
+    "title": "food",
+    "url": "Pharmacies()"
+  }, {
+    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/recipe.jpg",
+    "title": "recipe",
+    "url": "Pharmacies()"
   }
 ]
