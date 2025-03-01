@@ -2,40 +2,40 @@
   {
     "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/pharma.jpg",
     "title": "pharma",
-    "url": "Pharmacies()"
+    "url": "Routes.pharmacies"
   },
   {
     "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/doctor.jpg",
     "title": "doctor",
 
-    "url": "Pharmacies()"
+    "url": "Routes.doctors"
   },
   {
     "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/tourism.jpg",
     "title": "tourism",
-    "url": "Pharmacies()"
+    "url": "Routes.tourism"
   },
   {
     "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/service.jpg",
     "title": "service",
-    "url": "Pharmacies()"
+    "url": "Routes.services"
   },
   {
     "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/price.jpg",
     "title": "price",
-    "url": "Pharmacies()"
+    "url": "Routes.prices"
   },
   {
     "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/discount.jpg",
     "title": "discount",
-    "url": "Pharmacies()"
+    "url": "Routes.discounts"
   }, {
     "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/food.jpg",
     "title": "food",
-    "url": "Pharmacies()"
+    "url": "Routes.foods"
   }, {
     "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/recipe.jpg",
     "title": "recipe",
-    "url": "Pharmacies()"
+    "url": "Routes.recipes"
   }
 ]
