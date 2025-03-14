@@ -1,5 +1,10 @@
 [
   {
+    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/apps.jpg",
+    "title": "apps",
+    "url": "applications"
+  },
+  {
     "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/pharma.jpg",
     "title": "pharma",
     "url": "pharmacies"
