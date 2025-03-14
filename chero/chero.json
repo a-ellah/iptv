@@ -5,6 +5,11 @@
     "url": "applications"
   },
   {
+    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/sites.jpg",
+    "title": "sites",
+    "url": "sites"
+  },
+  {
     "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/pharma.jpg",
     "title": "pharma",
     "url": "pharmacies"
